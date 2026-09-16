@@ -9,7 +9,7 @@ The drone, all sharing one instance of a trained brain, learned whole-line servi
 
 
 ![Animated dashboard timelapse showing the fly swarm and traced neural activity](docs/media/dashboard-timelapse.gif)
-This 60-second animated GIF compresses approximately 59 minutes of recorded dashboard playback.
+Timelapse of the swarm delivering cargo for the assembly line. The plot shows cumulative amount of final product produced.
 
 ## Why Do This
 Deciding how to get from point A to point B though multiple intermediate stops, also known as the routing problem, exist in multiple disciplines like computer networks, logistics, and mathematics. The idea is that if a swarm of drones, each having only only knowledge of the map can self-organize to service the network to deliver messages or cargos, then we can reduce the computational workload of determining the optimal route and rely on the agents to learn it through training, not through coding, making the network more resilent to changing positions of the nodes without crashing the system.
