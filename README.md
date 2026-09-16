@@ -1,9 +1,9 @@
 # Using Fruit Fly Connectome To Control Logistic Drones to Service Logistic Network without Encoding Topology of the Network.
 
-TLRD: The vitrual brain of a fruit fly is trained to make deliveries for a factory assembly line. It's not as efficient as drones with knowledge of the map but it works, so as a proof of concept we might be able to mmeaningfully use simulated brains to power machines.
+TLRD: The vitrual brain of a fruit fly is trained to make deliveries for a factory assembly line. It's not as efficient as drones with knowledge of the map but it works, so as a proof of concept we might be able to mmeaningfully use simulated brains to power machines. This is also a practice to set up a cluster of heterogenous GPUs (1 RTX 5090, 2 DGX Sparks) for training.
 
 **What is Achieved**
-We connects a full released MaleCNS neuronal graph to simple 2D avatars, trains selected model parameters, and makes the resulting behavior inspectable alongside anatomical neuron reconstructions and measured activity.
+I connect a full released MaleCNS neuronal graph to simple 2D avatars, trains selected model parameters, and makes the resulting behavior inspectable alongside anatomical neuron reconstructions and measured activity.
 
 The drone, all sharing one instance of a trained brain, learned whole-line service and a productive four-fly swarm were demonstrated on the original layout. Service on arbitrary layouts was achieveable but realiability still depends on the layout of the logistic network.
 
