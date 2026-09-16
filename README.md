@@ -24,8 +24,6 @@ The project includes:
 - A React/Three.js dashboard showing the factory, trails, production/reward history, checkpoint identity, and anatomically traced neuron branches with activity overlays.
 - Tests, retained evaluation reports, preparation tools, and two separately packaged model snapshots: the original-layout reference and the final displayed experimental model.
 
-This is a **connectome-constrained engineering model**, not a validated digital replica of a living fly. The MaleCNS release contains brain and ventral nerve cord data; “brain” is shorthand throughout the app. Geometry and connectivity do not establish biological dynamics, cognition, or behavior. The neuron counts above describe this project's explicit retention policy, not a claim that every cell in the animal has been simulated.
-
 ## How it works
 
 ```text
