@@ -1,0 +1,3612 @@
+{
+  "protocol": {
+    "seedStart": 1300000,
+    "cases": 64,
+    "horizon": 800,
+    "candidate": ".runtime\\dopamine-experiments\\selected-pickup.npz",
+    "candidateHash": "6c3368add6a57d623a3264ac5d478c6e3e8c80393437c2e131e2a5fa0dd2b97a",
+    "frozen": true,
+    "noise": false,
+    "decoderFixed": true,
+    "sensoryProjectionFixed": true
+  },
+  "original": {
+    "episodes": 64,
+    "horizon": 800,
+    "blankSensory": false,
+    "noise": false,
+    "learning": false,
+    "wallSeconds": 79.69662570953369,
+    "gainsHash": "a293c26d31b3394ed258ee55c3771d48c497bf3d08d80fb1a46e4361745c3b19",
+    "trials": [
+      {
+        "seed": 1300000,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.27188054532350714,
+        "interactions": 0,
+        "distance": 0.5433231473900468
+      },
+      {
+        "seed": 1300001,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.32622199637677796,
+        "interactions": 0,
+        "distance": 0.516981131350619
+      },
+      {
+        "seed": 1300002,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.28926207354244093,
+        "interactions": 0,
+        "distance": 0.5306910773739141
+      },
+      {
+        "seed": 1300003,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2969453798281301,
+        "interactions": 0,
+        "distance": 0.5258969942107891
+      },
+      {
+        "seed": 1300004,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3067988346124023,
+        "interactions": 0,
+        "distance": 0.5197418285068126
+      },
+      {
+        "seed": 1300005,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.31672307213196593,
+        "interactions": 0,
+        "distance": 0.5147222366649646
+      },
+      {
+        "seed": 1300006,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.31120643146684235,
+        "interactions": 0,
+        "distance": 0.513500776374705
+      },
+      {
+        "seed": 1300007,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.30576242198241144,
+        "interactions": 0,
+        "distance": 0.531106105586513
+      },
+      {
+        "seed": 1300008,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.28427909108157867,
+        "interactions": 0,
+        "distance": 0.5470593823119971
+      },
+      {
+        "seed": 1300009,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3299193074794266,
+        "interactions": 0,
+        "distance": 0.5117425772827005
+      },
+      {
+        "seed": 1300010,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.31303395162683045,
+        "interactions": 0,
+        "distance": 0.5210281690582619
+      },
+      {
+        "seed": 1300011,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.28894782567789334,
+        "interactions": 0,
+        "distance": 0.5390809046104595
+      },
+      {
+        "seed": 1300012,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.34021217079356797,
+        "interactions": 0,
+        "distance": 0.4948553879745196
+      },
+      {
+        "seed": 1300013,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3123486463824035,
+        "interactions": 0,
+        "distance": 0.5272225011605725
+      },
+      {
+        "seed": 1300014,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.31325908144488823,
+        "interactions": 0,
+        "distance": 0.5254943116102307
+      },
+      {
+        "seed": 1300015,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2575564622051563,
+        "interactions": 0,
+        "distance": 0.5632003652863081
+      },
+      {
+        "seed": 1300016,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.30006048126939666,
+        "interactions": 0,
+        "distance": 0.520785195473563
+      },
+      {
+        "seed": 1300017,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2714245980762014,
+        "interactions": 0,
+        "distance": 0.5569151428528218
+      },
+      {
+        "seed": 1300018,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.26427359561641256,
+        "interactions": 0,
+        "distance": 0.5573957264423368
+      },
+      {
+        "seed": 1300019,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2691787266090133,
+        "interactions": 0,
+        "distance": 0.5599589098710579
+      },
+      {
+        "seed": 1300020,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.32480204745174496,
+        "interactions": 0,
+        "distance": 0.5013032449409299
+      },
+      {
+        "seed": 1300021,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.290024494353918,
+        "interactions": 0,
+        "distance": 0.5409887733869254
+      },
+      {
+        "seed": 1300022,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.30688134357709584,
+        "interactions": 0,
+        "distance": 0.5161652968264947
+      },
+      {
+        "seed": 1300023,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.31094578776754594,
+        "interactions": 0,
+        "distance": 0.5139547242783065
+      },
+      {
+        "seed": 1300024,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.287938516592171,
+        "interactions": 0,
+        "distance": 0.5444437896832782
+      },
+      {
+        "seed": 1300025,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3069196758725402,
+        "interactions": 0,
+        "distance": 0.5141959834843864
+      },
+      {
+        "seed": 1300026,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3022939310259024,
+        "interactions": 0,
+        "distance": 0.522761272545902
+      },
+      {
+        "seed": 1300027,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2760012466193461,
+        "interactions": 0,
+        "distance": 0.5347151251509766
+      },
+      {
+        "seed": 1300028,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.32855030902095084,
+        "interactions": 0,
+        "distance": 0.49913168745116054
+      },
+      {
+        "seed": 1300029,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.28781091639625117,
+        "interactions": 0,
+        "distance": 0.5279069595504481
+      },
+      {
+        "seed": 1300030,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.27710532435690005,
+        "interactions": 0,
+        "distance": 0.5345741804223474
+      },
+      {
+        "seed": 1300031,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.30627229578122567,
+        "interactions": 0,
+        "distance": 0.5263387307524714
+      },
+      {
+        "seed": 1300032,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.271803051801497,
+        "interactions": 0,
+        "distance": 0.5555731887929145
+      },
+      {
+        "seed": 1300033,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.32013246268981016,
+        "interactions": 0,
+        "distance": 0.5173875909764285
+      },
+      {
+        "seed": 1300034,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2896600524411244,
+        "interactions": 0,
+        "distance": 0.5382234959397472
+      },
+      {
+        "seed": 1300035,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2843107893405424,
+        "interactions": 0,
+        "distance": 0.54367457805202
+      },
+      {
+        "seed": 1300036,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.26915857427065815,
+        "interactions": 0,
+        "distance": 0.5475577289238588
+      },
+      {
+        "seed": 1300037,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3238776096823031,
+        "interactions": 0,
+        "distance": 0.5018048424739248
+      },
+      {
+        "seed": 1300038,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3080162078696087,
+        "interactions": 0,
+        "distance": 0.5134797591250493
+      },
+      {
+        "seed": 1300039,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3092223334201973,
+        "interactions": 0,
+        "distance": 0.51877597593702
+      },
+      {
+        "seed": 1300040,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3078139196513259,
+        "interactions": 0,
+        "distance": 0.5289913094136967
+      },
+      {
+        "seed": 1300041,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2946349237055169,
+        "interactions": 0,
+        "distance": 0.5337740368675623
+      },
+      {
+        "seed": 1300042,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.323995757013829,
+        "interactions": 0,
+        "distance": 0.5097985914908401
+      },
+      {
+        "seed": 1300043,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.308256479376995,
+        "interactions": 0,
+        "distance": 0.5122607564553693
+      },
+      {
+        "seed": 1300044,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2804940971861586,
+        "interactions": 0,
+        "distance": 0.5433786434121401
+      },
+      {
+        "seed": 1300045,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2816839874895138,
+        "interactions": 0,
+        "distance": 0.5440051782410655
+      },
+      {
+        "seed": 1300046,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2972486346857499,
+        "interactions": 0,
+        "distance": 0.5314829637762104
+      },
+      {
+        "seed": 1300047,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.26383010277573155,
+        "interactions": 0,
+        "distance": 0.5607085006311594
+      },
+      {
+        "seed": 1300048,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.285022975734543,
+        "interactions": 0,
+        "distance": 0.5267292410600957
+      },
+      {
+        "seed": 1300049,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3011906291303963,
+        "interactions": 0,
+        "distance": 0.5332989173941444
+      },
+      {
+        "seed": 1300050,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3216315576035209,
+        "interactions": 0,
+        "distance": 0.5129882145672995
+      },
+      {
+        "seed": 1300051,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3300873094988403,
+        "interactions": 0,
+        "distance": 0.4999187218491023
+      },
+      {
+        "seed": 1300052,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3161331533542612,
+        "interactions": 0,
+        "distance": 0.5070778933353702
+      },
+      {
+        "seed": 1300053,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.27274256261834573,
+        "interactions": 0,
+        "distance": 0.5521585607901184
+      },
+      {
+        "seed": 1300054,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.32048790795076976,
+        "interactions": 0,
+        "distance": 0.5146088120993342
+      },
+      {
+        "seed": 1300055,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3180771628050502,
+        "interactions": 0,
+        "distance": 0.507038270682107
+      },
+      {
+        "seed": 1300056,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2955401679643627,
+        "interactions": 0,
+        "distance": 0.5388923759572204
+      },
+      {
+        "seed": 1300057,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2559082159006755,
+        "interactions": 0,
+        "distance": 0.7938516663852989
+      },
+      {
+        "seed": 1300058,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.3064928536992535,
+        "interactions": 0,
+        "distance": 0.5188693225383758
+      },
+      {
+        "seed": 1300059,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.34099261603886905,
+        "interactions": 0,
+        "distance": 0.4929079749155736
+      },
+      {
+        "seed": 1300060,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2817508075034885,
+        "interactions": 0,
+        "distance": 0.5445436032023301
+      },
+      {
+        "seed": 1300061,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.31300176575048355,
+        "interactions": 0,
+        "distance": 0.5079417914617803
+      },
+      {
+        "seed": 1300062,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.32803659545464203,
+        "interactions": 0,
+        "distance": 0.5159381909761634
+      },
+      {
+        "seed": 1300063,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.28742087482567275,
+        "interactions": 0,
+        "distance": 0.5349292444996457
+      }
+    ],
+    "pickups": 0,
+    "transfers": 0,
+    "products": 0,
+    "pickupSuccessRate": 0.0,
+    "transferSuccessRate": 0.0,
+    "productSuccessRate": 0.0,
+    "meanReward": -0.299742136274634
+  },
+  "learned": {
+    "episodes": 64,
+    "horizon": 800,
+    "blankSensory": false,
+    "noise": false,
+    "learning": false,
+    "wallSeconds": 78.4977297782898,
+    "gainsHash": "6c3368add6a57d623a3264ac5d478c6e3e8c80393437c2e131e2a5fa0dd2b97a",
+    "trials": [
+      {
+        "seed": 1300000,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.05273631959983578,
+        "interactions": 40,
+        "distance": 1.6411101205274594
+      },
+      {
+        "seed": 1300001,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.003397092511973121,
+        "interactions": 40,
+        "distance": 1.6430570961907425
+      },
+      {
+        "seed": 1300002,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.15480547818742235,
+        "interactions": 40,
+        "distance": 1.6421820078976495
+      },
+      {
+        "seed": 1300003,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.00036289785555201903,
+        "interactions": 40,
+        "distance": 1.6373533971607734
+      },
+      {
+        "seed": 1300004,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.0759451097749279,
+        "interactions": 40,
+        "distance": 1.703221715521059
+      },
+      {
+        "seed": 1300005,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.028189374107214143,
+        "interactions": 40,
+        "distance": 1.6390978003852246
+      },
+      {
+        "seed": 1300006,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.13018422087061893,
+        "interactions": 40,
+        "distance": 1.6395651078782918
+      },
+      {
+        "seed": 1300007,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.12449248789548498,
+        "interactions": 40,
+        "distance": 1.6388486597687153
+      },
+      {
+        "seed": 1300008,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.10291043981210247,
+        "interactions": 40,
+        "distance": 1.6457527429796717
+      },
+      {
+        "seed": 1300009,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.17506245705303725,
+        "interactions": 40,
+        "distance": 1.6384176461957438
+      },
+      {
+        "seed": 1300010,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.061316927530781315,
+        "interactions": 40,
+        "distance": 1.7005309080705089
+      },
+      {
+        "seed": 1300011,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.05631601217108649,
+        "interactions": 40,
+        "distance": 1.6447773522697364
+      },
+      {
+        "seed": 1300012,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.08002836418078547,
+        "interactions": 40,
+        "distance": 1.6367939627729413
+      },
+      {
+        "seed": 1300013,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.023171236995807615,
+        "interactions": 40,
+        "distance": 1.6448289167136085
+      },
+      {
+        "seed": 1300014,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.1591354530831272,
+        "interactions": 40,
+        "distance": 1.6391431442461906
+      },
+      {
+        "seed": 1300015,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.02455201245167226,
+        "interactions": 40,
+        "distance": 1.709221703978244
+      },
+      {
+        "seed": 1300016,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.13339999074128295,
+        "interactions": 40,
+        "distance": 1.6413583257235593
+      },
+      {
+        "seed": 1300017,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.00027369366495817726,
+        "interactions": 40,
+        "distance": 1.7103085579350628
+      },
+      {
+        "seed": 1300018,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.08171239384114429,
+        "interactions": 40,
+        "distance": 1.6405761005356911
+      },
+      {
+        "seed": 1300019,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.01830504572404873,
+        "interactions": 40,
+        "distance": 1.6414145100861819
+      },
+      {
+        "seed": 1300020,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.14041811480866626,
+        "interactions": 40,
+        "distance": 1.6399079094640858
+      },
+      {
+        "seed": 1300021,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.15704736503370262,
+        "interactions": 40,
+        "distance": 1.6385006151162111
+      },
+      {
+        "seed": 1300022,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.09630441536006139,
+        "interactions": 40,
+        "distance": 1.6386313387192648
+      },
+      {
+        "seed": 1300023,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.10544381876421287,
+        "interactions": 40,
+        "distance": 1.6385162777267337
+      },
+      {
+        "seed": 1300024,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.12427146762114126,
+        "interactions": 40,
+        "distance": 1.645786825846873
+      },
+      {
+        "seed": 1300025,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.09813609971236256,
+        "interactions": 40,
+        "distance": 1.6381261751055738
+      },
+      {
+        "seed": 1300026,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.07546314461961796,
+        "interactions": 40,
+        "distance": 1.6382718326523886
+      },
+      {
+        "seed": 1300027,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.07097392599693207,
+        "interactions": 40,
+        "distance": 1.6390145159326448
+      },
+      {
+        "seed": 1300028,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.1448185778328827,
+        "interactions": 40,
+        "distance": 1.639996908418836
+      },
+      {
+        "seed": 1300029,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.055317824436722715,
+        "interactions": 40,
+        "distance": 1.6379992075264318
+      },
+      {
+        "seed": 1300030,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.09911072828732784,
+        "interactions": 40,
+        "distance": 1.701760816620677
+      },
+      {
+        "seed": 1300031,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.0273693353766523,
+        "interactions": 40,
+        "distance": 1.6420573100447702
+      },
+      {
+        "seed": 1300032,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.05600534984800086,
+        "interactions": 40,
+        "distance": 1.6434583013877355
+      },
+      {
+        "seed": 1300033,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.06821074172783452,
+        "interactions": 40,
+        "distance": 1.6434797125868472
+      },
+      {
+        "seed": 1300034,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.0639007780797733,
+        "interactions": 40,
+        "distance": 1.703960725571978
+      },
+      {
+        "seed": 1300035,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.008502757846722775,
+        "interactions": 40,
+        "distance": 1.6437326132319898
+      },
+      {
+        "seed": 1300036,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.04834878282848338,
+        "interactions": 40,
+        "distance": 1.7055888617411263
+      },
+      {
+        "seed": 1300037,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.0300006354266088,
+        "interactions": 40,
+        "distance": 1.6369321861304453
+      },
+      {
+        "seed": 1300038,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.055580736865611366,
+        "interactions": 40,
+        "distance": 1.6396349539048969
+      },
+      {
+        "seed": 1300039,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.011525561138903753,
+        "interactions": 40,
+        "distance": 1.6379928779788235
+      },
+      {
+        "seed": 1300040,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.04633108077653626,
+        "interactions": 40,
+        "distance": 1.6410752569325266
+      },
+      {
+        "seed": 1300041,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.15663071085111022,
+        "interactions": 40,
+        "distance": 1.6386530210263985
+      },
+      {
+        "seed": 1300042,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.01624169461316738,
+        "interactions": 40,
+        "distance": 1.6387465762905689
+      },
+      {
+        "seed": 1300043,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.0539688043389958,
+        "interactions": 40,
+        "distance": 1.7032447711098928
+      },
+      {
+        "seed": 1300044,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.10633277440175792,
+        "interactions": 40,
+        "distance": 1.643879848998044
+      },
+      {
+        "seed": 1300045,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.18618030582478412,
+        "interactions": 40,
+        "distance": 1.6386172674596235
+      },
+      {
+        "seed": 1300046,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.0466853160343486,
+        "interactions": 40,
+        "distance": 1.6413906511850644
+      },
+      {
+        "seed": 1300047,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.20448032843001024,
+        "interactions": 40,
+        "distance": 1.645255393162357
+      },
+      {
+        "seed": 1300048,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.14983737532522629,
+        "interactions": 40,
+        "distance": 1.639597060065706
+      },
+      {
+        "seed": 1300049,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.0684974780218647,
+        "interactions": 40,
+        "distance": 1.7016753683798196
+      },
+      {
+        "seed": 1300050,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.07401576299364833,
+        "interactions": 40,
+        "distance": 1.6414230904541867
+      },
+      {
+        "seed": 1300051,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2223427773333751,
+        "interactions": 40,
+        "distance": 1.6421976639889193
+      },
+      {
+        "seed": 1300052,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.09761535119643737,
+        "interactions": 40,
+        "distance": 1.6380329642444864
+      },
+      {
+        "seed": 1300053,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.04631552988217811,
+        "interactions": 40,
+        "distance": 1.7064727114513336
+      },
+      {
+        "seed": 1300054,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.10514587801278938,
+        "interactions": 40,
+        "distance": 1.642971933353699
+      },
+      {
+        "seed": 1300055,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.005182924900291042,
+        "interactions": 40,
+        "distance": 1.6371878581121426
+      },
+      {
+        "seed": 1300056,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.1386553548949415,
+        "interactions": 40,
+        "distance": 1.6389576335437586
+      },
+      {
+        "seed": 1300057,
+        "pickups": 2,
+        "transfers": 1,
+        "products": 0,
+        "reward": 0.07087110950668382,
+        "interactions": 40,
+        "distance": 1.7036868223920312
+      },
+      {
+        "seed": 1300058,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.13838869496601403,
+        "interactions": 40,
+        "distance": 1.6401647640392214
+      },
+      {
+        "seed": 1300059,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.2110658602284335,
+        "interactions": 40,
+        "distance": 1.6416570460423858
+      },
+      {
+        "seed": 1300060,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.02923039706673533,
+        "interactions": 40,
+        "distance": 1.6425289379432904
+      },
+      {
+        "seed": 1300061,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.06839527862160065,
+        "interactions": 40,
+        "distance": 1.6367587205022585
+      },
+      {
+        "seed": 1300062,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.03744018388988084,
+        "interactions": 40,
+        "distance": 1.6439253118820474
+      },
+      {
+        "seed": 1300063,
+        "pickups": 1,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.12483921766303102,
+        "interactions": 40,
+        "distance": 1.6413068298250433
+      }
+    ],
+    "pickups": 75,
+    "transfers": 11,
+    "products": 0,
+    "pickupSuccessRate": 1.0,
+    "transferSuccessRate": 0.171875,
+    "productSuccessRate": 0.0,
+    "meanReward": -0.058005025515644654
+  },
+  "blank": {
+    "episodes": 64,
+    "horizon": 800,
+    "blankSensory": true,
+    "noise": false,
+    "learning": false,
+    "wallSeconds": 38.33285427093506,
+    "gainsHash": "6c3368add6a57d623a3264ac5d478c6e3e8c80393437c2e131e2a5fa0dd2b97a",
+    "trials": [
+      {
+        "seed": 1300000,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.06564366308590586,
+        "interactions": 0,
+        "distance": 6.535047773271804
+      },
+      {
+        "seed": 1300001,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.01835681696404301,
+        "interactions": 0,
+        "distance": 7.046009939163927
+      },
+      {
+        "seed": 1300002,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.1804220134446222,
+        "interactions": 0,
+        "distance": 7.75691382214427
+      },
+      {
+        "seed": 1300003,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.30269106520956623,
+        "interactions": 0,
+        "distance": 8.434494085609906
+      },
+      {
+        "seed": 1300004,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.37512881668407017,
+        "interactions": 0,
+        "distance": 8.856593266129506
+      },
+      {
+        "seed": 1300005,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.03885973393614023,
+        "interactions": 0,
+        "distance": 7.1681965440511695
+      },
+      {
+        "seed": 1300006,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.002614472586972283,
+        "interactions": 0,
+        "distance": 7.501432739198209
+      },
+      {
+        "seed": 1300007,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.039028231460506935,
+        "interactions": 0,
+        "distance": 6.912715461105129
+      },
+      {
+        "seed": 1300008,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.35612328005614524,
+        "interactions": 0,
+        "distance": 8.723298788070684
+      },
+      {
+        "seed": 1300009,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.03683694413702826,
+        "interactions": 0,
+        "distance": 7.234843783080588
+      },
+      {
+        "seed": 1300010,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.2504109279889931,
+        "interactions": 0,
+        "distance": 8.856593266129511
+      },
+      {
+        "seed": 1300011,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.2416472527235904,
+        "interactions": 0,
+        "distance": 8.856593266129488
+      },
+      {
+        "seed": 1300012,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.2740538573438579,
+        "interactions": 0,
+        "distance": 8.856593266129508
+      },
+      {
+        "seed": 1300013,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.023913755333267173,
+        "interactions": 0,
+        "distance": 7.2237359099090215
+      },
+      {
+        "seed": 1300014,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.08724176157312763,
+        "interactions": 0,
+        "distance": 6.712773744016892
+      },
+      {
+        "seed": 1300015,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.4242376064023289,
+        "interactions": 0,
+        "distance": 8.856593266129495
+      },
+      {
+        "seed": 1300016,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.025591432921282464,
+        "interactions": 0,
+        "distance": 7.0793336853385
+      },
+      {
+        "seed": 1300017,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.043629923814556215,
+        "interactions": 0,
+        "distance": 7.112657304853186
+      },
+      {
+        "seed": 1300018,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.029864056626264457,
+        "interactions": 0,
+        "distance": 6.879391968250278
+      },
+      {
+        "seed": 1300019,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.38833714771552263,
+        "interactions": 0,
+        "distance": 8.856593392789373
+      },
+      {
+        "seed": 1300020,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.07852256223889303,
+        "interactions": 0,
+        "distance": 7.590295851230633
+      },
+      {
+        "seed": 1300021,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.05918008289974236,
+        "interactions": 0,
+        "distance": 7.656943090260015
+      },
+      {
+        "seed": 1300022,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.09979319014198984,
+        "interactions": 0,
+        "distance": 8.056826524436474
+      },
+      {
+        "seed": 1300023,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.24968934256030534,
+        "interactions": 0,
+        "distance": 8.85659339278935
+      },
+      {
+        "seed": 1300024,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.2787217171242703,
+        "interactions": 0,
+        "distance": 8.856593392789344
+      },
+      {
+        "seed": 1300025,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.10695430549382387,
+        "interactions": 0,
+        "distance": 7.97907141223552
+      },
+      {
+        "seed": 1300026,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.0831024963374174,
+        "interactions": 0,
+        "distance": 6.546155773103234
+      },
+      {
+        "seed": 1300027,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.2527312331577569,
+        "interactions": 0,
+        "distance": 8.312307607382532
+      },
+      {
+        "seed": 1300028,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.09958483580139368,
+        "interactions": 0,
+        "distance": 7.790237568318838
+      },
+      {
+        "seed": 1300029,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.058121821724408274,
+        "interactions": 0,
+        "distance": 6.734989617019899
+      },
+      {
+        "seed": 1300030,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.3604731258788616,
+        "interactions": 0,
+        "distance": 8.856593392789366
+      },
+      {
+        "seed": 1300031,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.2505473447921845,
+        "interactions": 0,
+        "distance": 8.856593392789362
+      },
+      {
+        "seed": 1300032,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.15105896952805595,
+        "interactions": 0,
+        "distance": 7.534756573289653
+      },
+      {
+        "seed": 1300033,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.1852005872122703,
+        "interactions": 0,
+        "distance": 8.467817919701346
+      },
+      {
+        "seed": 1300034,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.3899959386412538,
+        "interactions": 0,
+        "distance": 8.856593480706206
+      },
+      {
+        "seed": 1300035,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.15418841946399506,
+        "interactions": 0,
+        "distance": 8.345631314814108
+      },
+      {
+        "seed": 1300036,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.40729258790247214,
+        "interactions": 0,
+        "distance": 8.856593480706234
+      },
+      {
+        "seed": 1300037,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.13668618390709728,
+        "interactions": 0,
+        "distance": 7.856884895265111
+      },
+      {
+        "seed": 1300038,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.1365813926415955,
+        "interactions": 0,
+        "distance": 7.723590417206302
+      },
+      {
+        "seed": 1300039,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.3725638885534265,
+        "interactions": 0,
+        "distance": 8.856593480706213
+      },
+      {
+        "seed": 1300040,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.13845889395159147,
+        "interactions": 0,
+        "distance": 8.04571873918177
+      },
+      {
+        "seed": 1300041,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.18153383316218658,
+        "interactions": 0,
+        "distance": 8.467817919701318
+      },
+      {
+        "seed": 1300042,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.07314371427104252,
+        "interactions": 0,
+        "distance": 7.368138475716132
+      },
+      {
+        "seed": 1300043,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.3355464911111622,
+        "interactions": 0,
+        "distance": 8.856593480706227
+      },
+      {
+        "seed": 1300044,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.10475338231029394,
+        "interactions": 0,
+        "distance": 7.312599109858304
+      },
+      {
+        "seed": 1300045,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.03588010153734725,
+        "interactions": 0,
+        "distance": 7.701374670863155
+      },
+      {
+        "seed": 1300046,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.21698969172773014,
+        "interactions": 0,
+        "distance": 8.701083256304262
+      },
+      {
+        "seed": 1300047,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.4092661332375943,
+        "interactions": 0,
+        "distance": 8.856593480706197
+      },
+      {
+        "seed": 1300048,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.020141473488338335,
+        "interactions": 0,
+        "distance": 7.44589336887002
+      },
+      {
+        "seed": 1300049,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.35170953269834004,
+        "interactions": 0,
+        "distance": 8.856593261659135
+      },
+      {
+        "seed": 1300050,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.05840326306629398,
+        "interactions": 0,
+        "distance": 7.845776803046465
+      },
+      {
+        "seed": 1300051,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.34176555336237424,
+        "interactions": 0,
+        "distance": 8.856593261659157
+      },
+      {
+        "seed": 1300052,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.010869926194051527,
+        "interactions": 0,
+        "distance": 7.301491017639674
+      },
+      {
+        "seed": 1300053,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.4056907233630618,
+        "interactions": 0,
+        "distance": 8.85659326165914
+      },
+      {
+        "seed": 1300054,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.24907428779322194,
+        "interactions": 0,
+        "distance": 8.856593261659155
+      },
+      {
+        "seed": 1300055,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.07563504159120085,
+        "interactions": 0,
+        "distance": 7.457001242041584
+      },
+      {
+        "seed": 1300056,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.0574029332354149,
+        "interactions": 0,
+        "distance": 6.823852471262226
+      },
+      {
+        "seed": 1300057,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.4098761939348153,
+        "interactions": 0,
+        "distance": 8.856593261659121
+      },
+      {
+        "seed": 1300058,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.007352474199212311,
+        "interactions": 0,
+        "distance": 6.9238233298063125
+      },
+      {
+        "seed": 1300059,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.305381423197127,
+        "interactions": 0,
+        "distance": 8.856593261659135
+      },
+      {
+        "seed": 1300060,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.07718708979723349,
+        "interactions": 0,
+        "distance": 7.190412285923965
+      },
+      {
+        "seed": 1300061,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.1579278832214013,
+        "interactions": 0,
+        "distance": 8.145689378678798
+      },
+      {
+        "seed": 1300062,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": -0.028582847353675944,
+        "interactions": 0,
+        "distance": 7.22373590543866
+      },
+      {
+        "seed": 1300063,
+        "pickups": 0,
+        "transfers": 0,
+        "products": 0,
+        "reward": 0.2328213661447874,
+        "interactions": 0,
+        "distance": 8.856593261659135
+      }
+    ],
+    "pickups": 0,
+    "transfers": 0,
+    "products": 0,
+    "pickupSuccessRate": 0.0,
+    "transferSuccessRate": 0.0,
+    "productSuccessRate": 0.0,
+    "meanReward": 0.1619200117435694
+  },
+  "pickupDiscrimination": {
+    "cases": 256,
+    "nearPickupRate": 1.0,
+    "farAttemptRate": 0.0,
+    "nearMeanLatency": 0.20000000000000004,
+    "blankSensory": false,
+    "noise": false,
+    "weightsChangedDuringEvaluation": false,
+    "gainsHash": "6c3368add6a57d623a3264ac5d478c6e3e8c80393437c2e131e2a5fa0dd2b97a",
+    "trials": [
+      {
+        "seed": 1310000,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310001,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310002,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310003,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310004,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310005,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310006,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310007,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310008,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310009,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310010,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310011,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310012,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310013,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310014,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310015,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310016,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310017,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310018,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310019,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310020,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310021,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310022,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310023,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310024,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310025,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310026,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310027,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310028,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310029,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310030,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310031,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310032,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310033,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310034,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310035,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310036,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310037,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310038,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310039,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310040,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310041,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310042,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310043,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310044,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310045,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310046,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310047,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310048,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310049,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310050,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310051,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310052,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310053,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310054,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310055,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310056,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310057,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310058,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310059,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310060,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310061,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310062,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310063,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310064,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310065,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310066,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310067,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310068,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310069,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310070,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310071,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310072,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310073,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310074,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310075,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310076,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310077,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310078,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310079,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310080,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310081,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310082,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310083,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310084,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310085,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310086,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310087,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310088,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310089,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310090,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310091,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310092,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310093,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310094,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310095,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310096,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310097,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310098,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310099,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310100,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310101,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310102,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310103,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310104,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310105,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310106,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310107,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310108,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310109,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310110,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310111,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310112,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310113,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310114,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310115,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310116,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310117,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310118,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310119,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310120,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310121,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310122,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310123,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310124,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310125,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310126,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310127,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310128,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310129,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310130,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310131,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310132,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310133,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310134,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310135,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310136,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310137,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310138,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310139,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310140,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310141,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310142,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310143,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310144,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310145,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310146,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310147,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310148,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310149,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310150,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310151,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310152,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310153,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310154,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310155,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310156,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310157,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310158,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310159,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310160,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310161,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310162,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310163,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310164,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310165,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310166,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310167,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310168,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310169,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310170,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310171,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310172,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310173,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310174,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310175,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310176,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310177,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310178,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310179,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310180,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310181,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310182,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310183,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310184,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310185,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310186,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310187,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310188,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310189,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310190,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310191,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310192,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310193,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310194,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310195,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310196,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310197,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310198,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310199,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310200,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310201,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310202,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310203,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310204,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310205,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310206,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310207,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310208,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310209,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310210,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310211,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310212,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310213,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310214,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310215,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310216,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310217,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310218,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310219,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310220,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310221,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310222,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310223,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310224,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310225,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310226,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310227,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310228,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310229,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310230,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310231,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310232,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310233,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310234,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310235,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310236,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310237,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310238,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310239,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310240,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310241,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310242,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310243,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310244,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310245,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310246,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310247,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310248,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310249,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310250,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310251,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310252,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310253,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      },
+      {
+        "seed": 1310254,
+        "near": true,
+        "picked": true,
+        "attempts": 1,
+        "latency": 0.2
+      },
+      {
+        "seed": 1310255,
+        "near": false,
+        "picked": false,
+        "attempts": 0,
+        "latency": 2.0
+      }
+    ]
+  },
+  "audit": {
+    "schema": "dopamine-haul-v1",
+    "initialWeightHash": "28116ae2839218068a872abf7a27ea42522d1bfa2a79dcb16b58239cf81dcb8b",
+    "currentWeightHash": "56ad478d6e6efd8f8611cc817c2ed05a8c6a3508214cc236ebd283f9fe63c6e7",
+    "changedSynapses": 415,
+    "frozenSynapsesUnchanged": true,
+    "sharedWeightsMatch": true,
+    "finite": true,
+    "signsPreserved": true,
+    "optimizerPresent": false,
+    "backpropagation": false,
+    "decoderTrained": false
+  }
+}

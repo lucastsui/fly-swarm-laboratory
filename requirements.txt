@@ -1,0 +1,8 @@
+# Install a platform-appropriate PyTorch 2.11 build separately (see docs/SETUP.md).
+# Versions below were installed in the original Windows runtime.
+numpy==2.4.6
+pandas==3.0.5
+pyarrow==25.0.1
+scipy==1.17.1
+fastapi==0.141.1
+uvicorn==0.52.4

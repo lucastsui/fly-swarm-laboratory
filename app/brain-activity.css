@@ -1,0 +1,55 @@
+.brain-visual{background:#111a25;border:1px solid #283545;border-radius:10px;overflow:hidden}
+.brain-visual .panel-head{padding:19px 22px}
+.morphology-toolbar{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 16px;border-top:1px solid #293746;border-bottom:1px solid #293746;background:#17222f;flex-wrap:wrap}
+.morphology-options{display:flex;gap:3px}
+.morphology-options button{color:#a7b9cb;font-size:12px;padding:5px 10px;height:30px}
+.morphology-options button[aria-pressed=true]{background:#2a413c;color:#b6f5d8}
+.morphology-stage{height:480px;position:relative;background:#fff;overflow:hidden;color-scheme:light}
+.morphology-host{position:absolute;inset:0}
+.morphology-host canvas{display:block;width:100%;height:100%;cursor:grab;touch-action:none}
+.morphology-host canvas:active{cursor:grabbing}
+.morphology-view-label{position:absolute;left:20px;top:18px;color:#415469;font:600 10px/1.6 ui-monospace,monospace;letter-spacing:1px;pointer-events:none;background:#ffffffba;padding:3px 6px;border-radius:3px}
+.morphology-view-label span{display:block;font:12px/1.6 Arial,sans-serif;letter-spacing:0;color:#6b7889}
+.morphology-navigation{position:absolute;top:20px;right:17px;display:flex;flex-direction:column;border:1px solid #dce2e7;border-radius:7px;background:#fffffff2;box-shadow:0 3px 15px #31475c0d;padding:3px;gap:4px;color:#45556a}
+.morphology-navigation button:hover{background:#e9efed;color:#142b24}.morphology-navigation button[aria-pressed=true]{background:#d8f0e5;color:#1d6145}
+.morphology-scale{position:absolute;bottom:21px;left:25px;color:#4a5766;font:11px/1.5 ui-monospace,monospace;pointer-events:none}
+.morphology-scale>div{border-bottom:2px solid #657180;border-left:1px solid #657180;border-right:1px solid #657180;height:5px;width:70px}
+.morphology-scale span{display:block;text-align:center;margin-top:3px}
+.morphology-gesture{position:absolute;bottom:21px;right:22px;color:#687787;font:11px/1.5 Arial,sans-serif;pointer-events:none;background:#ffffffba;padding:2px 4px}
+.morphology-legend{display:flex;align-items:center;gap:8px;padding:13px 20px;color:#a7b8c9;font-size:12px;border-top:1px solid #293746;flex-wrap:wrap}
+.morphology-legend>span:last-child{margin-left:auto;color:#7f96ac;font-size:11px}
+.morphology-rainbow,.morphology-heat{display:inline-block;width:38px;height:5px;border-radius:4px;background:linear-gradient(90deg,#d361aa,#8584dd,#51bac5,#85bd65,#d7a152);flex-shrink:0}
+.morphology-heat{background:linear-gradient(90deg,#2c59ad,#a55557,#f33d1a)}
+.activity-mode .morphology-stage{background:#08121e;color-scheme:dark}
+.activity-mode .morphology-view-label{color:#c0deee;background:#08121edc}
+.activity-mode .morphology-view-label span{color:#98b5cb}
+.activity-mode .morphology-view-label .activity-sample{font:11px/1.8 ui-monospace,monospace;color:#a3dac5;margin-top:5px}
+.activity-mode .morphology-view-label .activity-changes{font-size:11px;color:#e4cf8b}
+.activity-mode .morphology-navigation{background:#132233ed;color:#afc5d7;border-color:#34495e}
+.activity-mode .morphology-navigation button:hover{background:#284238;color:#c5f9df}
+.activity-mode .morphology-scale{color:#a4b8cd}.activity-mode .morphology-scale>div{border-color:#8aa1b8}
+.activity-mode .morphology-gesture{background:#08121ec9;color:#8aa3ba}
+.activity-legend{display:flex;align-items:center;gap:30px;padding:15px 22px 20px;border-top:1px solid #293746;background:#101b28;flex-wrap:wrap}
+.activity-level-key{width:235px;flex-shrink:0}
+.activity-level-key>span{font:10px/1.6 ui-monospace,monospace;letter-spacing:.8px;color:#afc4d7}
+.activity-color-scale{height:6px;margin-top:8px;border-radius:5px;background:linear-gradient(90deg,#17295c 0%,#5959ff 25%,#00cce0 50%,#73f792 75%,#ffa640 100%)}
+.activity-scale-ticks{position:relative;height:17px;margin-top:5px;color:#94abc1;font:10px/1.4 ui-monospace,monospace}
+.activity-scale-ticks span{position:absolute;transform:translateX(-50%)}.activity-scale-ticks span:first-child{transform:none}.activity-scale-ticks span:last-child{transform:translateX(-100%)}
+.activity-change-key{color:#dbc986;font-size:12px;line-height:1.65;flex:1;min-width:220px}
+.activity-change-key i{display:inline-block;width:7px;height:7px;background:#fff099;border-radius:50%;margin-right:7px;box-shadow:0 0 8px #efd67777}
+.activity-change-key small{display:block;color:#829bb2;font-size:11px}
+@media(max-width:650px){.activity-legend{gap:9px;padding:12px 16px}.activity-level-key{width:210px}.activity-mode .morphology-view-label{max-width:calc(100% - 72px)}}
+.brain-anatomy-caption{padding:0 20px 20px;color:#94a9be;font-size:12px;line-height:1.65}
+.brain-anatomy-caption strong{display:block;color:#d2e1e8;font:13px/1.6 ui-monospace,monospace;margin:3px 0 8px}
+.brain-anatomy-caption details{font-size:12px;margin-top:12px;padding-top:10px}
+.brain-anatomy-caption details p{font-size:12px}
+.morphology-loading{height:420px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:17px;color:#a8cdbd;background:#0e1721}
+.morphology-loading p{font-size:14px}.morphology-loading span{font-size:12px;color:#8195aa}
+.morphology-error{position:absolute;inset:30%;background:#fff;border:1px solid #c9d2db;border-radius:6px;color:#86452c;padding:20px;line-height:1.6;font-size:14px;text-align:center;display:grid;place-items:center}
+.morphology-dialog[data-slot=dialog-content]{width:calc(100vw - 48px);max-width:1440px;height:calc(100dvh - 48px);max-height:1100px;padding:20px;display:flex;flex-direction:column;gap:9px;background:#111a25;border:1px solid #394b60;overflow:hidden}
+.morphology-dialog [data-slot=dialog-title]{font-size:19px;color:#e4eee9}
+.morphology-dialog [data-slot=dialog-description]{font-size:13px;color:#9cb0c2;padding-right:20px}
+.morphology-dialog .expanded{flex:1;display:flex;flex-direction:column;min-height:0;margin-top:5px;border:1px solid #2c3d4d;border-radius:6px;overflow:hidden}
+.morphology-dialog .morphology-stage{height:auto;flex:1;min-height:160px}
+.morphology-dialog-note{font-size:12px;color:#91a6bb;line-height:1.6}
+@media(max-width:650px){.morphology-stage{height:420px}.morphology-toolbar{gap:5px;padding:8px}.morphology-options button{padding:5px 8px;font-size:11px}.morphology-gesture{bottom:14px;right:12px;max-width:160px;font-size:10px;text-align:right}.morphology-legend>span:last-child{margin-left:0;width:100%}.morphology-dialog[data-slot=dialog-content]{width:calc(100vw - 16px);height:calc(100dvh - 16px);padding:12px}.morphology-view-label{left:10px;top:12px}.brain-visual .panel-head{padding:17px 16px}.morphology-error{inset:20% 10%}}

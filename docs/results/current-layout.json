@@ -1,0 +1,34 @@
+{
+  "schema": "fixed-dashboard-layout-v1",
+  "capturedAt": "2026-09-15T19:25:45Z",
+  "source": "http://127.0.0.1:8770/api/plane/state",
+  "sourcePhase": "V13-C100",
+  "sourceParameterHash": "8bbe94b331e55586f6424f70edec82e09f38f9849a787234c21136c038efcf34",
+  "stationOrder": [
+    "raw",
+    "smelter",
+    "assembler",
+    "finished"
+  ],
+  "positions": [
+    [
+      18.747888990904322,
+      7.3994367959900025
+    ],
+    [
+      5.917935543911416,
+      11.178116458349923
+    ],
+    [
+      14.240717861912344,
+      9.973804726144254
+    ],
+    [
+      4.232500768799213,
+      6.855373503855216
+    ]
+  ],
+  "flies": 4,
+  "collisions": true,
+  "physics": "source-return-trays-v1"
+}

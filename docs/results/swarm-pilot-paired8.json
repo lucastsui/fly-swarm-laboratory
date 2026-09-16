@@ -1,0 +1,954 @@
+{
+  "checkpointHash": "522ec9a2b5967ff5b014211a631adbea36723e66a216c06cba867d5d57238bba",
+  "candidate": ".runtime\\service-training\\sequence-lr0005\\candidate-200.npz",
+  "seed": 5600000,
+  "seconds": 240,
+  "teacher": false,
+  "learning": false,
+  "noise": false,
+  "weightsUnchanged": true,
+  "peerVision": true,
+  "flyRadius": 0.22,
+  "minSeparation": 0.44000269082327326,
+  "sharedFactoryClock": true,
+  "summary": {
+    "solo": {
+      "cases": 8,
+      "products": 28,
+      "atLeastThree": 8,
+      "withProduct": 8,
+      "withLateProduct": 8,
+      "bumpEvents": 0
+    },
+    "swarm": {
+      "cases": 8,
+      "products": 64,
+      "atLeastThree": 8,
+      "withProduct": 8,
+      "withLateProduct": 8,
+      "bumpEvents": 221
+    },
+    "ghostSwarm": {
+      "cases": 8,
+      "products": 65,
+      "atLeastThree": 8,
+      "withProduct": 8,
+      "withLateProduct": 8,
+      "bumpEvents": 0
+    }
+  },
+  "trials": [
+    {
+      "group": "solo",
+      "seed": 5600000,
+      "products": 3,
+      "pickups": 9,
+      "transfers": 9,
+      "deliveryTimes": [
+        79.10000000000001,
+        170.4,
+        228.8
+      ],
+      "perFlyProducts": [
+        3
+      ],
+      "perFlyTransfers": [
+        9
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        0
+      ]
+    },
+    {
+      "group": "solo",
+      "seed": 5600001,
+      "products": 3,
+      "pickups": 10,
+      "transfers": 9,
+      "deliveryTimes": [
+        84.85000000000001,
+        124.80000000000001,
+        175.10000000000002
+      ],
+      "perFlyProducts": [
+        3
+      ],
+      "perFlyTransfers": [
+        9
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        1
+      ]
+    },
+    {
+      "group": "solo",
+      "seed": 5600002,
+      "products": 4,
+      "pickups": 13,
+      "transfers": 12,
+      "deliveryTimes": [
+        21.1,
+        115.0,
+        157.20000000000002,
+        214.85000000000002
+      ],
+      "perFlyProducts": [
+        4
+      ],
+      "perFlyTransfers": [
+        12
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        1
+      ]
+    },
+    {
+      "group": "solo",
+      "seed": 5600003,
+      "products": 4,
+      "pickups": 12,
+      "transfers": 12,
+      "deliveryTimes": [
+        104.10000000000001,
+        148.35,
+        192.3,
+        234.0
+      ],
+      "perFlyProducts": [
+        4
+      ],
+      "perFlyTransfers": [
+        12
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        0
+      ]
+    },
+    {
+      "group": "solo",
+      "seed": 5600004,
+      "products": 3,
+      "pickups": 9,
+      "transfers": 9,
+      "deliveryTimes": [
+        72.10000000000001,
+        129.65,
+        236.05
+      ],
+      "perFlyProducts": [
+        3
+      ],
+      "perFlyTransfers": [
+        9
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        0
+      ]
+    },
+    {
+      "group": "solo",
+      "seed": 5600005,
+      "products": 3,
+      "pickups": 12,
+      "transfers": 11,
+      "deliveryTimes": [
+        66.10000000000001,
+        128.65,
+        173.60000000000002
+      ],
+      "perFlyProducts": [
+        3
+      ],
+      "perFlyTransfers": [
+        11
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        3
+      ]
+    },
+    {
+      "group": "solo",
+      "seed": 5600006,
+      "products": 4,
+      "pickups": 15,
+      "transfers": 14,
+      "deliveryTimes": [
+        68.10000000000001,
+        114.2,
+        156.45000000000002,
+        200.25
+      ],
+      "perFlyProducts": [
+        4
+      ],
+      "perFlyTransfers": [
+        14
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        3
+      ]
+    },
+    {
+      "group": "solo",
+      "seed": 5600007,
+      "products": 4,
+      "pickups": 12,
+      "transfers": 12,
+      "deliveryTimes": [
+        12.100000000000001,
+        61.300000000000004,
+        125.60000000000001,
+        228.15
+      ],
+      "perFlyProducts": [
+        4
+      ],
+      "perFlyTransfers": [
+        12
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        0
+      ]
+    },
+    {
+      "group": "swarm",
+      "seed": 5600000,
+      "products": 9,
+      "pickups": 34,
+      "transfers": 31,
+      "deliveryTimes": [
+        25.1,
+        30.900000000000002,
+        54.050000000000004,
+        89.30000000000001,
+        152.5,
+        179.60000000000002,
+        184.05,
+        218.20000000000002,
+        225.0
+      ],
+      "perFlyProducts": [
+        2,
+        3,
+        2,
+        2
+      ],
+      "perFlyTransfers": [
+        7,
+        9,
+        7,
+        8
+      ],
+      "bumpEvents": 23,
+      "solverHolds": 0,
+      "cargo": [
+        1,
+        3,
+        0,
+        3
+      ]
+    },
+    {
+      "group": "swarm",
+      "seed": 5600001,
+      "products": 7,
+      "pickups": 30,
+      "transfers": 26,
+      "deliveryTimes": [
+        77.95,
+        83.7,
+        100.35000000000001,
+        144.65,
+        146.6,
+        155.85000000000002,
+        177.65
+      ],
+      "perFlyProducts": [
+        2,
+        1,
+        2,
+        2
+      ],
+      "perFlyTransfers": [
+        8,
+        5,
+        8,
+        5
+      ],
+      "bumpEvents": 22,
+      "solverHolds": 0,
+      "cargo": [
+        2,
+        3,
+        1,
+        1
+      ]
+    },
+    {
+      "group": "swarm",
+      "seed": 5600002,
+      "products": 7,
+      "pickups": 27,
+      "transfers": 25,
+      "deliveryTimes": [
+        80.65,
+        99.30000000000001,
+        135.0,
+        148.4,
+        154.25,
+        183.85000000000002,
+        213.3
+      ],
+      "perFlyProducts": [
+        1,
+        2,
+        3,
+        1
+      ],
+      "perFlyTransfers": [
+        4,
+        6,
+        11,
+        4
+      ],
+      "bumpEvents": 28,
+      "solverHolds": 0,
+      "cargo": [
+        2,
+        0,
+        3,
+        0
+      ]
+    },
+    {
+      "group": "swarm",
+      "seed": 5600003,
+      "products": 6,
+      "pickups": 26,
+      "transfers": 22,
+      "deliveryTimes": [
+        25.25,
+        51.650000000000006,
+        79.80000000000001,
+        112.0,
+        129.0,
+        169.60000000000002
+      ],
+      "perFlyProducts": [
+        2,
+        0,
+        2,
+        2
+      ],
+      "perFlyTransfers": [
+        7,
+        5,
+        4,
+        6
+      ],
+      "bumpEvents": 32,
+      "solverHolds": 0,
+      "cargo": [
+        2,
+        2,
+        1,
+        3
+      ]
+    },
+    {
+      "group": "swarm",
+      "seed": 5600004,
+      "products": 7,
+      "pickups": 28,
+      "transfers": 24,
+      "deliveryTimes": [
+        71.4,
+        86.25,
+        94.45,
+        112.05000000000001,
+        158.5,
+        171.65,
+        210.25
+      ],
+      "perFlyProducts": [
+        0,
+        3,
+        1,
+        3
+      ],
+      "perFlyTransfers": [
+        4,
+        7,
+        3,
+        10
+      ],
+      "bumpEvents": 33,
+      "solverHolds": 0,
+      "cargo": [
+        3,
+        1,
+        2,
+        1
+      ]
+    },
+    {
+      "group": "swarm",
+      "seed": 5600005,
+      "products": 7,
+      "pickups": 24,
+      "transfers": 22,
+      "deliveryTimes": [
+        40.1,
+        92.25,
+        107.75,
+        188.4,
+        195.55,
+        229.55,
+        230.8
+      ],
+      "perFlyProducts": [
+        1,
+        1,
+        3,
+        2
+      ],
+      "perFlyTransfers": [
+        4,
+        3,
+        8,
+        7
+      ],
+      "bumpEvents": 31,
+      "solverHolds": 0,
+      "cargo": [
+        2,
+        0,
+        0,
+        1
+      ]
+    },
+    {
+      "group": "swarm",
+      "seed": 5600006,
+      "products": 9,
+      "pickups": 30,
+      "transfers": 28,
+      "deliveryTimes": [
+        28.150000000000002,
+        40.6,
+        62.6,
+        113.65,
+        122.65,
+        177.95000000000002,
+        192.05,
+        203.45000000000002,
+        212.45000000000002
+      ],
+      "perFlyProducts": [
+        2,
+        2,
+        3,
+        2
+      ],
+      "perFlyTransfers": [
+        7,
+        6,
+        9,
+        6
+      ],
+      "bumpEvents": 32,
+      "solverHolds": 0,
+      "cargo": [
+        0,
+        2,
+        0,
+        1
+      ]
+    },
+    {
+      "group": "swarm",
+      "seed": 5600007,
+      "products": 12,
+      "pickups": 41,
+      "transfers": 38,
+      "deliveryTimes": [
+        12.100000000000001,
+        16.6,
+        21.0,
+        53.2,
+        72.55,
+        96.55000000000001,
+        102.25,
+        129.65,
+        166.25,
+        208.70000000000002,
+        211.15,
+        228.05
+      ],
+      "perFlyProducts": [
+        4,
+        4,
+        2,
+        2
+      ],
+      "perFlyTransfers": [
+        9,
+        11,
+        8,
+        10
+      ],
+      "bumpEvents": 20,
+      "solverHolds": 0,
+      "cargo": [
+        3,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "group": "ghostSwarm",
+      "seed": 5600000,
+      "products": 6,
+      "pickups": 22,
+      "transfers": 19,
+      "deliveryTimes": [
+        28.1,
+        35.85,
+        38.75,
+        102.75,
+        211.65,
+        222.20000000000002
+      ],
+      "perFlyProducts": [
+        2,
+        0,
+        2,
+        2
+      ],
+      "perFlyTransfers": [
+        6,
+        1,
+        6,
+        6
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        1,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "group": "ghostSwarm",
+      "seed": 5600001,
+      "products": 9,
+      "pickups": 33,
+      "transfers": 29,
+      "deliveryTimes": [
+        66.5,
+        69.10000000000001,
+        75.10000000000001,
+        124.05000000000001,
+        152.35,
+        181.85000000000002,
+        186.60000000000002,
+        196.9,
+        198.45000000000002
+      ],
+      "perFlyProducts": [
+        3,
+        1,
+        2,
+        3
+      ],
+      "perFlyTransfers": [
+        7,
+        6,
+        8,
+        8
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        1,
+        1,
+        3,
+        1
+      ]
+    },
+    {
+      "group": "ghostSwarm",
+      "seed": 5600002,
+      "products": 9,
+      "pickups": 31,
+      "transfers": 29,
+      "deliveryTimes": [
+        91.15,
+        96.75,
+        102.10000000000001,
+        103.4,
+        153.15,
+        163.75,
+        170.15,
+        213.05,
+        225.05
+      ],
+      "perFlyProducts": [
+        2,
+        2,
+        3,
+        2
+      ],
+      "perFlyTransfers": [
+        6,
+        7,
+        9,
+        7
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        0,
+        0,
+        2,
+        2
+      ]
+    },
+    {
+      "group": "ghostSwarm",
+      "seed": 5600003,
+      "products": 9,
+      "pickups": 31,
+      "transfers": 30,
+      "deliveryTimes": [
+        26.3,
+        31.25,
+        56.1,
+        85.7,
+        89.4,
+        154.45000000000002,
+        160.0,
+        211.9,
+        215.05
+      ],
+      "perFlyProducts": [
+        0,
+        3,
+        2,
+        4
+      ],
+      "perFlyTransfers": [
+        4,
+        10,
+        4,
+        12
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        3,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "group": "ghostSwarm",
+      "seed": 5600004,
+      "products": 7,
+      "pickups": 28,
+      "transfers": 24,
+      "deliveryTimes": [
+        27.650000000000002,
+        64.10000000000001,
+        76.4,
+        100.60000000000001,
+        118.55000000000001,
+        172.3,
+        176.60000000000002
+      ],
+      "perFlyProducts": [
+        2,
+        4,
+        0,
+        1
+      ],
+      "perFlyTransfers": [
+        6,
+        10,
+        1,
+        7
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        3,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "group": "ghostSwarm",
+      "seed": 5600005,
+      "products": 7,
+      "pickups": 27,
+      "transfers": 24,
+      "deliveryTimes": [
+        27.1,
+        40.1,
+        81.45,
+        150.95000000000002,
+        156.05,
+        156.9,
+        218.60000000000002
+      ],
+      "perFlyProducts": [
+        1,
+        3,
+        2,
+        1
+      ],
+      "perFlyTransfers": [
+        5,
+        8,
+        6,
+        5
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        2,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "group": "ghostSwarm",
+      "seed": 5600006,
+      "products": 8,
+      "pickups": 32,
+      "transfers": 29,
+      "deliveryTimes": [
+        34.1,
+        79.30000000000001,
+        81.10000000000001,
+        85.05000000000001,
+        125.60000000000001,
+        183.15,
+        194.15,
+        195.9
+      ],
+      "perFlyProducts": [
+        2,
+        1,
+        3,
+        2
+      ],
+      "perFlyTransfers": [
+        8,
+        7,
+        8,
+        6
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        1,
+        0,
+        2,
+        3
+      ]
+    },
+    {
+      "group": "ghostSwarm",
+      "seed": 5600007,
+      "products": 10,
+      "pickups": 39,
+      "transfers": 36,
+      "deliveryTimes": [
+        12.100000000000001,
+        16.6,
+        20.0,
+        38.25,
+        56.1,
+        81.7,
+        91.60000000000001,
+        121.10000000000001,
+        144.45000000000002,
+        190.05
+      ],
+      "perFlyProducts": [
+        3,
+        2,
+        3,
+        2
+      ],
+      "perFlyTransfers": [
+        9,
+        8,
+        11,
+        8
+      ],
+      "bumpEvents": 0,
+      "solverHolds": 0,
+      "cargo": [
+        2,
+        2,
+        3,
+        0
+      ]
+    }
+  ],
+  "milestones": [
+    {
+      "seconds": 30.0,
+      "wallSeconds": 17.52,
+      "solo": {
+        "products": 2,
+        "worldsWithProduct": 2
+      },
+      "swarm": {
+        "products": 6,
+        "worldsWithProduct": 4
+      },
+      "ghostSwarm": {
+        "products": 7,
+        "worldsWithProduct": 5
+      }
+    },
+    {
+      "seconds": 60.0,
+      "wallSeconds": 35.71,
+      "solo": {
+        "products": 2,
+        "worldsWithProduct": 2
+      },
+      "swarm": {
+        "products": 12,
+        "worldsWithProduct": 5
+      },
+      "ghostSwarm": {
+        "products": 15,
+        "worldsWithProduct": 6
+      }
+    },
+    {
+      "seconds": 90.0,
+      "wallSeconds": 53.95,
+      "solo": {
+        "products": 8,
+        "worldsWithProduct": 7
+      },
+      "swarm": {
+        "products": 21,
+        "worldsWithProduct": 8
+      },
+      "ghostSwarm": {
+        "products": 27,
+        "worldsWithProduct": 7
+      }
+    },
+    {
+      "seconds": 120.0,
+      "wallSeconds": 72.11,
+      "solo": {
+        "products": 11,
+        "worldsWithProduct": 8
+      },
+      "swarm": {
+        "products": 31,
+        "worldsWithProduct": 8
+      },
+      "ghostSwarm": {
+        "products": 35,
+        "worldsWithProduct": 8
+      }
+    },
+    {
+      "seconds": 150.0,
+      "wallSeconds": 90.3,
+      "solo": {
+        "products": 16,
+        "worldsWithProduct": 8
+      },
+      "swarm": {
+        "products": 38,
+        "worldsWithProduct": 8
+      },
+      "ghostSwarm": {
+        "products": 39,
+        "worldsWithProduct": 8
+      }
+    },
+    {
+      "seconds": 180.0,
+      "wallSeconds": 108.48,
+      "solo": {
+        "products": 21,
+        "worldsWithProduct": 8
+      },
+      "swarm": {
+        "products": 48,
+        "worldsWithProduct": 8
+      },
+      "ghostSwarm": {
+        "products": 50,
+        "worldsWithProduct": 8
+      }
+    },
+    {
+      "seconds": 210.0,
+      "wallSeconds": 126.6,
+      "solo": {
+        "products": 23,
+        "worldsWithProduct": 8
+      },
+      "swarm": {
+        "products": 55,
+        "worldsWithProduct": 8
+      },
+      "ghostSwarm": {
+        "products": 58,
+        "worldsWithProduct": 8
+      }
+    },
+    {
+      "seconds": 240.0,
+      "wallSeconds": 144.79,
+      "solo": {
+        "products": 28,
+        "worldsWithProduct": 8
+      },
+      "swarm": {
+        "products": 64,
+        "worldsWithProduct": 8
+      },
+      "ghostSwarm": {
+        "products": 65,
+        "worldsWithProduct": 8
+      }
+    }
+  ],
+  "wallSeconds": 144.97958189999918
+}

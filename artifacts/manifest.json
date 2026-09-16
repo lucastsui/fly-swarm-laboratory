@@ -1,0 +1,49 @@
+{
+  "schema": "fly-swarm-artifacts-v1",
+  "archive": "fly-swarm-runtime-v1.zip",
+  "scope": "Prepared public connectome/interface plus two selected frozen checkpoints; no credentials, optimizer state or world snapshot.",
+  "files": [
+    {
+      "path": ".runtime/dopamine-haul/graph.npz",
+      "bytes": 309824472,
+      "sha256": "056363093b6707da52c84e0a8a152f98064c94675217772e3e95924d1402ac7b"
+    },
+    {
+      "path": ".runtime/dopamine-haul/brain-spec.npz",
+      "bytes": 25845238,
+      "sha256": "8457b95b88c9252f4bee19156610a33772742cc48f50b0969499a15b768a1bfc"
+    },
+    {
+      "path": ".runtime/dopamine-haul/brain-info.json",
+      "bytes": 191731,
+      "sha256": "af04ec25a530350942231cbf7ebd2b3de386ef854249d266787c02ec9044e615"
+    },
+    {
+      "path": ".runtime/dopamine-haul/annotated-inputs.npz",
+      "bytes": 31541,
+      "sha256": "b1747abf89cac2c86bb113b051d2e98cbc56eceec22b7a93ea59edcdd9c85f84"
+    },
+    {
+      "path": ".runtime/dopamine-haul/annotated-inputs.json",
+      "bytes": 397,
+      "sha256": "33fc7c777e6e6c1b0e7a2dbb36c0f629e314ceecf4a0dc7242fc3c993c286dde"
+    },
+    {
+      "path": ".runtime/service-training/sequence-lr0005/candidate-200.npz",
+      "bytes": 95949831,
+      "sha256": "6ce9b013622ed363b684eb8d7a3d55c1f84ee0f9552be6cddc2b1ad400844e8f"
+    },
+    {
+      "path": ".runtime/layout-training/fixed-transition-v2-c60.npz",
+      "bytes": 96342842,
+      "sha256": "74bf90c762104030f8004e6594e2f7ec82be566110ee5213254a1c69ca703e64"
+    },
+    {
+      "path": ".runtime/dashboard/latest-phase.json",
+      "bytes": 1059,
+      "sha256": "41d5e48bd3a1cc2ecfdfe6758c5ff5b9e3bae8534d10164daf11027d398d6519"
+    }
+  ],
+  "archiveBytes": 301763963,
+  "archiveSha256": "3fef60ca92eef655ab7856c067254d6d7b3f3931f545fe7728f3b891294b3841"
+}

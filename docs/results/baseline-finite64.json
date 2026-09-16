@@ -1,0 +1,4235 @@
+{
+  "retention": {
+    "pickup": {
+      "cases": 64,
+      "nearPickupRate": 1.0,
+      "farAttemptRate": 0.0,
+      "nearMeanLatency": 0.2,
+      "blankSensory": false,
+      "noise": false,
+      "weightsChangedDuringEvaluation": false,
+      "gainsHash": "1618f774efa0ec823f895e35eccc0dca2f5dc26946e2f236b3f82541d88d28a0",
+      "trials": [
+        {
+          "seed": 5320000,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320001,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320002,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320003,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320004,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320005,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320006,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320007,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320008,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320009,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320010,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320011,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320012,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320013,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320014,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320015,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320016,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320017,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320018,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320019,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320020,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320021,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320022,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320023,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320024,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320025,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320026,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320027,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320028,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320029,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320030,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320031,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320032,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320033,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320034,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320035,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320036,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320037,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320038,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320039,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320040,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320041,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320042,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320043,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320044,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320045,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320046,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320047,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320048,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320049,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320050,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320051,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320052,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320053,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320054,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320055,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320056,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320057,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320058,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320059,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320060,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320061,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        },
+        {
+          "seed": 5320062,
+          "near": true,
+          "picked": true,
+          "attempts": 1,
+          "latency": 0.2
+        },
+        {
+          "seed": 5320063,
+          "near": false,
+          "picked": false,
+          "attempts": 0,
+          "latency": 2.0
+        }
+      ]
+    },
+    "approach": {
+      "cases": 32,
+      "successes": 32,
+      "meanTravel": 2.446657735202462,
+      "meanFinalDistance": 0.7567143447410777,
+      "horizon": 400,
+      "blankVision": false,
+      "teacher": false,
+      "learning": false,
+      "noise": false,
+      "singleVisibleStation": true,
+      "trials": [
+        {
+          "seed": 5310000,
+          "passed": true,
+          "initialDistance": 3.734533727882359,
+          "finalDistance": 0.7587152918442748,
+          "travel": 3.141198790073396,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 13.600000000000001
+        },
+        {
+          "seed": 5310001,
+          "passed": true,
+          "initialDistance": 3.8916360409465938,
+          "finalDistance": 0.7613929863574938,
+          "travel": 3.384468514472247,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 14.55
+        },
+        {
+          "seed": 5310002,
+          "passed": true,
+          "initialDistance": 2.4768340273725573,
+          "finalDistance": 0.7549277085580511,
+          "travel": 1.785456340759985,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 8.200000000000001
+        },
+        {
+          "seed": 5310003,
+          "passed": true,
+          "initialDistance": 2.8273625547868786,
+          "finalDistance": 0.7547162242371861,
+          "travel": 2.0822388127446194,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 9.3
+        },
+        {
+          "seed": 5310004,
+          "passed": true,
+          "initialDistance": 4.497345410049279,
+          "finalDistance": 0.759167304459447,
+          "travel": 4.646826515346781,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 19.400000000000002
+        },
+        {
+          "seed": 5310005,
+          "passed": true,
+          "initialDistance": 3.2941434608940603,
+          "finalDistance": 0.7604016492973779,
+          "travel": 2.5683078803121986,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 11.3
+        },
+        {
+          "seed": 5310006,
+          "passed": true,
+          "initialDistance": 2.5696052405572165,
+          "finalDistance": 0.759232125565381,
+          "travel": 1.8529119521379451,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 8.450000000000001
+        },
+        {
+          "seed": 5310007,
+          "passed": true,
+          "initialDistance": 3.6504671227147982,
+          "finalDistance": 0.7518834436753865,
+          "travel": 3.025872927904124,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 13.15
+        },
+        {
+          "seed": 5310008,
+          "passed": true,
+          "initialDistance": 2.8594209379817284,
+          "finalDistance": 0.7548161921468217,
+          "travel": 2.1119147673249232,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 9.4
+        },
+        {
+          "seed": 5310009,
+          "passed": true,
+          "initialDistance": 2.8983707463351234,
+          "finalDistance": 0.7599171324969578,
+          "travel": 2.1435497097671043,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 9.5
+        },
+        {
+          "seed": 5310010,
+          "passed": true,
+          "initialDistance": 2.241263980834387,
+          "finalDistance": 0.7569948186138706,
+          "travel": 1.6279083445668225,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 7.6000000000000005
+        },
+        {
+          "seed": 5310011,
+          "passed": true,
+          "initialDistance": 3.1993283047306074,
+          "finalDistance": 0.7597570426756349,
+          "travel": 2.4614204756915496,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 10.850000000000001
+        },
+        {
+          "seed": 5310012,
+          "passed": true,
+          "initialDistance": 4.080800999294737,
+          "finalDistance": 0.7554944458135439,
+          "travel": 3.7175649270415287,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 15.850000000000001
+        },
+        {
+          "seed": 5310013,
+          "passed": true,
+          "initialDistance": 2.3422867151028406,
+          "finalDistance": 0.7537943090960417,
+          "travel": 1.6926994189620037,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 7.8500000000000005
+        },
+        {
+          "seed": 5310014,
+          "passed": true,
+          "initialDistance": 2.0838215417467914,
+          "finalDistance": 0.75740846686506,
+          "travel": 1.54853395819664,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 7.300000000000001
+        },
+        {
+          "seed": 5310015,
+          "passed": true,
+          "initialDistance": 3.067959351274228,
+          "finalDistance": 0.7520437235403065,
+          "travel": 2.324887748807666,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 10.25
+        },
+        {
+          "seed": 5310016,
+          "passed": true,
+          "initialDistance": 3.3090931673959316,
+          "finalDistance": 0.7547134244990136,
+          "travel": 2.591292906552549,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 11.4
+        },
+        {
+          "seed": 5310017,
+          "passed": true,
+          "initialDistance": 1.9417741453601496,
+          "finalDistance": 0.7578573336279684,
+          "travel": 1.4937585972249576,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 7.1000000000000005
+        },
+        {
+          "seed": 5310018,
+          "passed": true,
+          "initialDistance": 4.395836548525906,
+          "finalDistance": 0.7551483758783072,
+          "travel": 4.368966545909659,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 18.35
+        },
+        {
+          "seed": 5310019,
+          "passed": true,
+          "initialDistance": 1.932467292988086,
+          "finalDistance": 0.7557183625512507,
+          "travel": 1.4928801104426352,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 7.1000000000000005
+        },
+        {
+          "seed": 5310020,
+          "passed": true,
+          "initialDistance": 2.999136925738815,
+          "finalDistance": 0.7579174599930604,
+          "travel": 2.2461129270493982,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 9.9
+        },
+        {
+          "seed": 5310021,
+          "passed": true,
+          "initialDistance": 2.691401133292503,
+          "finalDistance": 0.7561797279723973,
+          "travel": 1.958085059374575,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 8.85
+        },
+        {
+          "seed": 5310022,
+          "passed": true,
+          "initialDistance": 3.2249431970836926,
+          "finalDistance": 0.7543058451598189,
+          "travel": 2.4956244289875062,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 11.0
+        },
+        {
+          "seed": 5310023,
+          "passed": true,
+          "initialDistance": 2.2497106542620147,
+          "finalDistance": 0.7606643970302034,
+          "travel": 1.6290589518845189,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 7.6000000000000005
+        },
+        {
+          "seed": 5310024,
+          "passed": true,
+          "initialDistance": 2.9646599755320735,
+          "finalDistance": 0.7557004600962248,
+          "travel": 2.212715015560391,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 9.75
+        },
+        {
+          "seed": 5310025,
+          "passed": true,
+          "initialDistance": 4.152937289506816,
+          "finalDistance": 0.7553862661051198,
+          "travel": 3.8466531664132932,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 16.35
+        },
+        {
+          "seed": 5310026,
+          "passed": true,
+          "initialDistance": 2.6683066548445393,
+          "finalDistance": 0.7611280296729916,
+          "travel": 1.9330981507897464,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 8.75
+        },
+        {
+          "seed": 5310027,
+          "passed": true,
+          "initialDistance": 2.669681342652031,
+          "finalDistance": 0.7520217573869817,
+          "travel": 1.9434100881218903,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 8.8
+        },
+        {
+          "seed": 5310028,
+          "passed": true,
+          "initialDistance": 2.939193814319587,
+          "finalDistance": 0.7561328350701392,
+          "travel": 2.1867523111403,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 9.65
+        },
+        {
+          "seed": 5310029,
+          "passed": true,
+          "initialDistance": 3.528848447895868,
+          "finalDistance": 0.7614841743673533,
+          "travel": 2.852438494563097,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 12.450000000000001
+        },
+        {
+          "seed": 5310030,
+          "passed": true,
+          "initialDistance": 3.560862907712553,
+          "finalDistance": 0.7548343422329897,
+          "travel": 2.900930541753773,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 12.65
+        },
+        {
+          "seed": 5310031,
+          "passed": true,
+          "initialDistance": 2.765746354827133,
+          "finalDistance": 0.7550033748278301,
+          "travel": 2.025509146600963,
+          "pickups": 1,
+          "transfers": 0,
+          "interactions": 1,
+          "seconds": 9.1
+        }
+      ]
+    },
+    "carry": {
+      "cases": 32,
+      "successes": 32,
+      "meanTravel": 2.5674800340551895,
+      "meanFinalDistance": 0.6571069042357274,
+      "horizon": 400,
+      "blankVision": false,
+      "teacher": false,
+      "learning": false,
+      "noise": false,
+      "singleVisibleStation": true,
+      "trials": [
+        {
+          "seed": 5310000,
+          "passed": true,
+          "initialDistance": 3.734533727882359,
+          "finalDistance": 0.5750267441998835,
+          "travel": 3.34378486648202,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 13,
+          "seconds": 12.200000000000001
+        },
+        {
+          "seed": 5310001,
+          "passed": true,
+          "initialDistance": 3.8916360409465938,
+          "finalDistance": 0.5642891517365712,
+          "travel": 3.613443701714278,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 14,
+          "seconds": 13.200000000000001
+        },
+        {
+          "seed": 5310002,
+          "passed": true,
+          "initialDistance": 2.4768340273725573,
+          "finalDistance": 0.574778191559789,
+          "travel": 1.9764086306095174,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 8,
+          "seconds": 7.2
+        },
+        {
+          "seed": 5310003,
+          "passed": true,
+          "initialDistance": 2.8273625547868786,
+          "finalDistance": 0.5481856297958831,
+          "travel": 2.289121330529458,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 9,
+          "seconds": 8.200000000000001
+        },
+        {
+          "seed": 5310004,
+          "passed": true,
+          "initialDistance": 4.497345410049277,
+          "finalDistance": 0.555906710758845,
+          "travel": 4.982886645197862,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 19,
+          "seconds": 18.2
+        },
+        {
+          "seed": 5310005,
+          "passed": true,
+          "initialDistance": 3.2941434608940603,
+          "finalDistance": 0.7944330029970709,
+          "travel": 2.534406086057424,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 10,
+          "seconds": 9.200000000000001
+        },
+        {
+          "seed": 5310006,
+          "passed": true,
+          "initialDistance": 2.5696052405572165,
+          "finalDistance": 0.6376137421124171,
+          "travel": 1.9813359759748093,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 8,
+          "seconds": 7.2
+        },
+        {
+          "seed": 5310007,
+          "passed": true,
+          "initialDistance": 3.6504671227147982,
+          "finalDistance": 0.7240452924997892,
+          "travel": 3.06698117926716,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 12,
+          "seconds": 11.200000000000001
+        },
+        {
+          "seed": 5310008,
+          "passed": true,
+          "initialDistance": 2.8594209379817284,
+          "finalDistance": 0.5707759270823566,
+          "travel": 2.295766524970534,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 9,
+          "seconds": 8.200000000000001
+        },
+        {
+          "seed": 5310009,
+          "passed": true,
+          "initialDistance": 2.8983707463351234,
+          "finalDistance": 0.5973011910131184,
+          "travel": 2.305373512953529,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 9,
+          "seconds": 8.200000000000001
+        },
+        {
+          "seed": 5310010,
+          "passed": true,
+          "initialDistance": 2.241263980834387,
+          "finalDistance": 0.7315985649488753,
+          "travel": 1.6798006817698512,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 7,
+          "seconds": 6.2
+        },
+        {
+          "seed": 5310011,
+          "passed": true,
+          "initialDistance": 3.1993283047306074,
+          "finalDistance": 0.6711471816538652,
+          "travel": 2.5488441392779313,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 10,
+          "seconds": 9.200000000000001
+        },
+        {
+          "seed": 5310012,
+          "passed": true,
+          "initialDistance": 4.080800999294737,
+          "finalDistance": 0.6442149722787083,
+          "travel": 3.8800208128988722,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 15,
+          "seconds": 14.200000000000001
+        },
+        {
+          "seed": 5310013,
+          "passed": true,
+          "initialDistance": 2.3422867151028406,
+          "finalDistance": 0.7804065626187509,
+          "travel": 1.6847569815814551,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 7,
+          "seconds": 6.2
+        },
+        {
+          "seed": 5310014,
+          "passed": true,
+          "initialDistance": 2.0838215417467914,
+          "finalDistance": 0.6766208225805636,
+          "travel": 1.6717017419636162,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 7,
+          "seconds": 6.2
+        },
+        {
+          "seed": 5310015,
+          "passed": true,
+          "initialDistance": 3.067959351274228,
+          "finalDistance": 0.7818820009212826,
+          "travel": 2.2930202186107693,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 9,
+          "seconds": 8.200000000000001
+        },
+        {
+          "seed": 5310016,
+          "passed": true,
+          "initialDistance": 3.3090931673959316,
+          "finalDistance": 0.5287976536164938,
+          "travel": 2.8175888963043643,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 11,
+          "seconds": 10.200000000000001
+        },
+        {
+          "seed": 5310017,
+          "passed": true,
+          "initialDistance": 1.9417741453601496,
+          "finalDistance": 0.6491767770319312,
+          "travel": 1.662419336289165,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 7,
+          "seconds": 6.2
+        },
+        {
+          "seed": 5310018,
+          "passed": true,
+          "initialDistance": 4.395836548525906,
+          "finalDistance": 0.5180150785283755,
+          "travel": 4.70765102133155,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 18,
+          "seconds": 17.2
+        },
+        {
+          "seed": 5310019,
+          "passed": true,
+          "initialDistance": 1.932467292988086,
+          "finalDistance": 0.648039055337777,
+          "travel": 1.6617883518338146,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 7,
+          "seconds": 6.2
+        },
+        {
+          "seed": 5310020,
+          "passed": true,
+          "initialDistance": 2.999136925738815,
+          "finalDistance": 0.6885609886063434,
+          "travel": 2.313346008956427,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 9,
+          "seconds": 8.200000000000001
+        },
+        {
+          "seed": 5310021,
+          "passed": true,
+          "initialDistance": 2.691401133292503,
+          "finalDistance": 0.7284777619866192,
+          "travel": 1.9890012316405827,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 8,
+          "seconds": 7.2
+        },
+        {
+          "seed": 5310022,
+          "passed": true,
+          "initialDistance": 3.2249431970836926,
+          "finalDistance": 0.7045676411848196,
+          "travel": 2.5444529697298988,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 10,
+          "seconds": 9.200000000000001
+        },
+        {
+          "seed": 5310023,
+          "passed": true,
+          "initialDistance": 2.249710654262014,
+          "finalDistance": 0.7352923718153634,
+          "travel": 1.6802109837532075,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 7,
+          "seconds": 6.2
+        },
+        {
+          "seed": 5310024,
+          "passed": true,
+          "initialDistance": 2.9646599755320735,
+          "finalDistance": 0.6469986151031147,
+          "travel": 2.3196834221482274,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 9,
+          "seconds": 8.200000000000001
+        },
+        {
+          "seed": 5310025,
+          "passed": true,
+          "initialDistance": 4.152937289506816,
+          "finalDistance": 0.7865287905211956,
+          "travel": 3.8741099014878264,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 15,
+          "seconds": 14.200000000000001
+        },
+        {
+          "seed": 5310026,
+          "passed": true,
+          "initialDistance": 2.6683066548445393,
+          "finalDistance": 0.7106812408099742,
+          "travel": 1.9873631492257195,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 8,
+          "seconds": 7.2
+        },
+        {
+          "seed": 5310027,
+          "passed": true,
+          "initialDistance": 2.669681342652031,
+          "finalDistance": 0.7117356965325925,
+          "travel": 1.987456533312798,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 8,
+          "seconds": 7.2
+        },
+        {
+          "seed": 5310028,
+          "passed": true,
+          "initialDistance": 2.939193814319587,
+          "finalDistance": 0.6252734897401014,
+          "travel": 2.316337838768958,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 9,
+          "seconds": 8.200000000000001
+        },
+        {
+          "seed": 5310029,
+          "passed": true,
+          "initialDistance": 3.528848447895868,
+          "finalDistance": 0.5420739421146195,
+          "travel": 3.078963330388068,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 12,
+          "seconds": 11.200000000000001
+        },
+        {
+          "seed": 5310030,
+          "passed": true,
+          "initialDistance": 3.560862907712553,
+          "finalDistance": 0.5884696127796787,
+          "travel": 3.0758246921002943,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 12,
+          "seconds": 11.200000000000001
+        },
+        {
+          "seed": 5310031,
+          "passed": true,
+          "initialDistance": 2.765746354827133,
+          "finalDistance": 0.7865065310765046,
+          "travel": 1.995510392636062,
+          "pickups": 0,
+          "transfers": 1,
+          "interactions": 8,
+          "seconds": 7.2
+        }
+      ]
+    }
+  },
+  "audit": {
+    "neurons": 166700,
+    "eligibleSynapses": 25582938,
+    "changedFromInitial": 0,
+    "finite": true,
+    "signsPreserved": true,
+    "fixedGraphSensoryDecoderDynamicsUnchanged": true,
+    "backpropagation": false,
+    "decoderTrained": false,
+    "dopamineLearning": false,
+    "gainsHash": "1618f774efa0ec823f895e35eccc0dca2f5dc26946e2f236b3f82541d88d28a0"
+  },
+  "finite": {
+    "gainsHash": "1618f774efa0ec823f895e35eccc0dca2f5dc26946e2f236b3f82541d88d28a0",
+    "cases": 64,
+    "horizon": 4800,
+    "seconds": 240.0,
+    "continuousSupply": false,
+    "blankSenses": false,
+    "teacher": false,
+    "learning": false,
+    "noise": false,
+    "checkpoints": {
+      "40": {
+        "episodesWithProduct": 50,
+        "episodesAllThree": 0,
+        "products": 50,
+        "pickups": 190,
+        "transfers": 177
+      },
+      "80": {
+        "episodesWithProduct": 58,
+        "episodesAllThree": 0,
+        "products": 74,
+        "pickups": 300,
+        "transfers": 264
+      },
+      "120": {
+        "episodesWithProduct": 58,
+        "episodesAllThree": 1,
+        "products": 107,
+        "pickups": 395,
+        "transfers": 352
+      },
+      "160": {
+        "episodesWithProduct": 58,
+        "episodesAllThree": 34,
+        "products": 143,
+        "pickups": 496,
+        "transfers": 472
+      },
+      "200": {
+        "episodesWithProduct": 58,
+        "episodesAllThree": 44,
+        "products": 154,
+        "pickups": 514,
+        "transfers": 495
+      },
+      "240": {
+        "episodesWithProduct": 58,
+        "episodesAllThree": 49,
+        "products": 159,
+        "pickups": 520,
+        "transfers": 506
+      }
+    },
+    "productsPerFactoryMinute": 0.62109375,
+    "trials": [
+      {
+        "seed": 5300000,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 16.1,
+        "clearSeconds": 146.15,
+        "cargoAtEnd": 0,
+        "distance": 38.96937929913401,
+        "deliveryTimes": [
+          16.1,
+          78.9,
+          146.15
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300001,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 28.1,
+        "clearSeconds": 165.9,
+        "cargoAtEnd": 0,
+        "distance": 44.107012156397175,
+        "deliveryTimes": [
+          28.1,
+          97.75,
+          165.9
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300002,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 36.1,
+        "clearSeconds": 200.05,
+        "cargoAtEnd": 0,
+        "distance": 52.305367136001585,
+        "deliveryTimes": [
+          36.1,
+          118.4,
+          200.05
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "200": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300003,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 40.1,
+        "clearSeconds": 188.65,
+        "cargoAtEnd": 0,
+        "distance": 49.778246860206124,
+        "deliveryTimes": [
+          40.1,
+          124.05000000000001,
+          188.65
+        ],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "120": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "160": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300004,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 17.1,
+        "clearSeconds": 128.05,
+        "cargoAtEnd": 0,
+        "distance": 34.10683318078521,
+        "deliveryTimes": [
+          17.1,
+          76.35000000000001,
+          128.05
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 8,
+            "transfers": 7
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300005,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 27.1,
+        "clearSeconds": 142.65,
+        "cargoAtEnd": 0,
+        "distance": 37.80189072862269,
+        "deliveryTimes": [
+          27.1,
+          92.7,
+          142.65
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300006,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 19.1,
+        "clearSeconds": 148.35,
+        "cargoAtEnd": 0,
+        "distance": 39.46807647570972,
+        "deliveryTimes": [
+          19.1,
+          85.7,
+          148.35
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300007,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 22.1,
+        "clearSeconds": 151.5,
+        "cargoAtEnd": 0,
+        "distance": 40.43346070870752,
+        "deliveryTimes": [
+          22.1,
+          86.30000000000001,
+          151.5
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300008,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 35.1,
+        "clearSeconds": 211.05,
+        "cargoAtEnd": 0,
+        "distance": 55.60828988552082,
+        "deliveryTimes": [
+          35.1,
+          150.4,
+          211.05
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "120": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 4
+          },
+          "160": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "200": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300009,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 27.1,
+        "clearSeconds": 141.5,
+        "cargoAtEnd": 0,
+        "distance": 37.64144056439395,
+        "deliveryTimes": [
+          27.1,
+          86.05000000000001,
+          141.5
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300010,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 33.1,
+        "clearSeconds": 151.3,
+        "cargoAtEnd": 0,
+        "distance": 40.31454289108506,
+        "deliveryTimes": [
+          33.1,
+          83.10000000000001,
+          151.3
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300011,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 17.1,
+        "clearSeconds": 126.15,
+        "cargoAtEnd": 0,
+        "distance": 33.5847530834377,
+        "deliveryTimes": [
+          17.1,
+          74.55,
+          126.15
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 8,
+            "transfers": 7
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300012,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 16.1,
+        "clearSeconds": 149.0,
+        "cargoAtEnd": 0,
+        "distance": 39.65440494418143,
+        "deliveryTimes": [
+          16.1,
+          86.15,
+          149.0
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300013,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 33.1,
+        "clearSeconds": 163.5,
+        "cargoAtEnd": 0,
+        "distance": 43.58616404756902,
+        "deliveryTimes": [
+          33.1,
+          97.9,
+          163.5
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300014,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 23.1,
+        "clearSeconds": 132.45000000000002,
+        "cargoAtEnd": 0,
+        "distance": 35.26911737322807,
+        "deliveryTimes": [
+          23.1,
+          78.65,
+          132.45000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300015,
+        "products": 0,
+        "pickups": 3,
+        "transfers": 2,
+        "firstProductSeconds": null,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 66.11621964201345,
+        "deliveryTimes": [],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "120": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "160": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "200": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "240": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          }
+        }
+      },
+      {
+        "seed": 5300016,
+        "products": 1,
+        "pickups": 6,
+        "transfers": 5,
+        "firstProductSeconds": 27.1,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 65.06992993950853,
+        "deliveryTimes": [
+          27.1
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "160": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "200": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "240": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          }
+        }
+      },
+      {
+        "seed": 5300017,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 14.100000000000001,
+        "clearSeconds": 143.8,
+        "cargoAtEnd": 0,
+        "distance": 38.262255719304235,
+        "deliveryTimes": [
+          14.100000000000001,
+          76.95,
+          143.8
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300018,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 17.1,
+        "clearSeconds": 144.6,
+        "cargoAtEnd": 0,
+        "distance": 38.5386460199953,
+        "deliveryTimes": [
+          17.1,
+          81.0,
+          144.6
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300019,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 31.1,
+        "clearSeconds": 173.85000000000002,
+        "cargoAtEnd": 0,
+        "distance": 46.30255161449317,
+        "deliveryTimes": [
+          31.1,
+          108.5,
+          173.85000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300020,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 17.1,
+        "clearSeconds": 146.75,
+        "cargoAtEnd": 0,
+        "distance": 38.96782390549776,
+        "deliveryTimes": [
+          17.1,
+          83.45,
+          146.75
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300021,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 22.1,
+        "clearSeconds": 145.75,
+        "cargoAtEnd": 0,
+        "distance": 38.747913941741004,
+        "deliveryTimes": [
+          22.1,
+          84.45,
+          145.75
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300022,
+        "products": 2,
+        "pickups": 7,
+        "transfers": 7,
+        "firstProductSeconds": 58.050000000000004,
+        "clearSeconds": null,
+        "cargoAtEnd": 0,
+        "distance": 61.78394258096816,
+        "deliveryTimes": [
+          58.050000000000004,
+          119.30000000000001
+        ],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 2,
+            "transfers": 2
+          },
+          "80": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "200": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 7
+          },
+          "240": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 7
+          }
+        }
+      },
+      {
+        "seed": 5300023,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 23.1,
+        "clearSeconds": 140.55,
+        "cargoAtEnd": 0,
+        "distance": 37.52526153624055,
+        "deliveryTimes": [
+          23.1,
+          80.4,
+          140.55
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300024,
+        "products": 1,
+        "pickups": 6,
+        "transfers": 5,
+        "firstProductSeconds": 43.1,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 64.5917967014013,
+        "deliveryTimes": [
+          43.1
+        ],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "120": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "160": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "200": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "240": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          }
+        }
+      },
+      {
+        "seed": 5300025,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 42.1,
+        "clearSeconds": 224.9,
+        "cargoAtEnd": 0,
+        "distance": 59.0947146967053,
+        "deliveryTimes": [
+          42.1,
+          122.4,
+          224.9
+        ],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "120": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "160": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "200": {
+            "products": 2,
+            "pickups": 8,
+            "transfers": 7
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300026,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 16.1,
+        "clearSeconds": 129.35,
+        "cargoAtEnd": 0,
+        "distance": 34.53091327995062,
+        "deliveryTimes": [
+          16.1,
+          71.60000000000001,
+          129.35
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 8,
+            "transfers": 7
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300027,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 27.1,
+        "clearSeconds": 176.65,
+        "cargoAtEnd": 0,
+        "distance": 47.026913266629116,
+        "deliveryTimes": [
+          27.1,
+          104.05000000000001,
+          176.65
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300028,
+        "products": 0,
+        "pickups": 3,
+        "transfers": 2,
+        "firstProductSeconds": null,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 66.19125650674115,
+        "deliveryTimes": [],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "120": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "160": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "200": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "240": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          }
+        }
+      },
+      {
+        "seed": 5300029,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 40.1,
+        "clearSeconds": 162.8,
+        "cargoAtEnd": 0,
+        "distance": 43.345600298792185,
+        "deliveryTimes": [
+          40.1,
+          100.35000000000001,
+          162.8
+        ],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300030,
+        "products": 0,
+        "pickups": 3,
+        "transfers": 2,
+        "firstProductSeconds": null,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 65.17368579283345,
+        "deliveryTimes": [],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 2,
+            "transfers": 2
+          },
+          "80": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "120": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "160": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "200": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "240": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          }
+        }
+      },
+      {
+        "seed": 5300031,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 17.1,
+        "clearSeconds": 134.9,
+        "cargoAtEnd": 0,
+        "distance": 35.97326774448156,
+        "deliveryTimes": [
+          17.1,
+          77.10000000000001,
+          134.9
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300032,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 24.1,
+        "clearSeconds": 149.20000000000002,
+        "cargoAtEnd": 0,
+        "distance": 39.77855700924979,
+        "deliveryTimes": [
+          24.1,
+          90.7,
+          149.20000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 4
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300033,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 22.1,
+        "clearSeconds": 137.55,
+        "cargoAtEnd": 0,
+        "distance": 36.41630219742656,
+        "deliveryTimes": [
+          22.1,
+          75.10000000000001,
+          137.55
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300034,
+        "products": 1,
+        "pickups": 6,
+        "transfers": 5,
+        "firstProductSeconds": 35.1,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 64.9466356575489,
+        "deliveryTimes": [
+          35.1
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "120": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 4
+          },
+          "160": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "200": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "240": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          }
+        }
+      },
+      {
+        "seed": 5300035,
+        "products": 1,
+        "pickups": 6,
+        "transfers": 5,
+        "firstProductSeconds": 37.1,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 64.86532572433347,
+        "deliveryTimes": [
+          37.1
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 4
+          },
+          "160": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "200": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "240": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          }
+        }
+      },
+      {
+        "seed": 5300036,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 34.1,
+        "clearSeconds": 158.0,
+        "cargoAtEnd": 0,
+        "distance": 42.120836162567244,
+        "deliveryTimes": [
+          34.1,
+          97.45,
+          158.0
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300037,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 21.1,
+        "clearSeconds": 136.8,
+        "cargoAtEnd": 0,
+        "distance": 36.442215500027,
+        "deliveryTimes": [
+          21.1,
+          81.7,
+          136.8
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300038,
+        "products": 0,
+        "pickups": 3,
+        "transfers": 2,
+        "firstProductSeconds": null,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 66.10947828590871,
+        "deliveryTimes": [],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 2,
+            "transfers": 1
+          },
+          "80": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "120": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "160": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "200": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "240": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          }
+        }
+      },
+      {
+        "seed": 5300039,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 23.1,
+        "clearSeconds": 138.45000000000002,
+        "cargoAtEnd": 0,
+        "distance": 36.71398517787456,
+        "deliveryTimes": [
+          23.1,
+          83.45,
+          138.45000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300040,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 22.1,
+        "clearSeconds": 132.85,
+        "cargoAtEnd": 0,
+        "distance": 35.411164525896204,
+        "deliveryTimes": [
+          22.1,
+          79.75,
+          132.85
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300041,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 39.1,
+        "clearSeconds": 158.45000000000002,
+        "cargoAtEnd": 0,
+        "distance": 42.240918520837994,
+        "deliveryTimes": [
+          39.1,
+          97.5,
+          158.45000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300042,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 17.1,
+        "clearSeconds": 130.95000000000002,
+        "cargoAtEnd": 0,
+        "distance": 34.826134866475925,
+        "deliveryTimes": [
+          17.1,
+          71.0,
+          130.95000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 7
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300043,
+        "products": 0,
+        "pickups": 3,
+        "transfers": 2,
+        "firstProductSeconds": null,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 66.1801353335382,
+        "deliveryTimes": [],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "120": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "160": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "200": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "240": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          }
+        }
+      },
+      {
+        "seed": 5300044,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 34.1,
+        "clearSeconds": 148.6,
+        "cargoAtEnd": 0,
+        "distance": 39.58710607662807,
+        "deliveryTimes": [
+          34.1,
+          96.25,
+          148.6
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300045,
+        "products": 1,
+        "pickups": 6,
+        "transfers": 5,
+        "firstProductSeconds": 40.1,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 64.75780841782675,
+        "deliveryTimes": [
+          40.1
+        ],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "120": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 4
+          },
+          "160": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "200": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "240": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          }
+        }
+      },
+      {
+        "seed": 5300046,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 19.1,
+        "clearSeconds": 146.20000000000002,
+        "cargoAtEnd": 0,
+        "distance": 38.86455858275296,
+        "deliveryTimes": [
+          19.1,
+          82.85000000000001,
+          146.20000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300047,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 27.1,
+        "clearSeconds": 162.15,
+        "cargoAtEnd": 0,
+        "distance": 43.3035711847246,
+        "deliveryTimes": [
+          27.1,
+          90.7,
+          162.15
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 4
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300048,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 21.1,
+        "clearSeconds": 138.95000000000002,
+        "cargoAtEnd": 0,
+        "distance": 36.93600694686183,
+        "deliveryTimes": [
+          21.1,
+          75.2,
+          138.95000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300049,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 40.1,
+        "clearSeconds": 163.70000000000002,
+        "cargoAtEnd": 0,
+        "distance": 43.59066332504148,
+        "deliveryTimes": [
+          40.1,
+          101.60000000000001,
+          163.70000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300050,
+        "products": 0,
+        "pickups": 3,
+        "transfers": 2,
+        "firstProductSeconds": null,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 66.12849349156004,
+        "deliveryTimes": [],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "120": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "160": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "200": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "240": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          }
+        }
+      },
+      {
+        "seed": 5300051,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 36.1,
+        "clearSeconds": 160.5,
+        "cargoAtEnd": 0,
+        "distance": 42.69907867014412,
+        "deliveryTimes": [
+          36.1,
+          97.75,
+          160.5
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300052,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 16.1,
+        "clearSeconds": 129.0,
+        "cargoAtEnd": 0,
+        "distance": 34.26806583255532,
+        "deliveryTimes": [
+          16.1,
+          72.45,
+          129.0
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 8,
+            "transfers": 7
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300053,
+        "products": 1,
+        "pickups": 6,
+        "transfers": 5,
+        "firstProductSeconds": 38.1,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 64.92614748254428,
+        "deliveryTimes": [
+          38.1
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 4
+          },
+          "160": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "200": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "240": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          }
+        }
+      },
+      {
+        "seed": 5300054,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 16.1,
+        "clearSeconds": 140.85,
+        "cargoAtEnd": 0,
+        "distance": 37.577515596151294,
+        "deliveryTimes": [
+          16.1,
+          75.55,
+          140.85
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300055,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 34.1,
+        "clearSeconds": 164.85000000000002,
+        "cargoAtEnd": 0,
+        "distance": 43.993821697682094,
+        "deliveryTimes": [
+          34.1,
+          100.35000000000001,
+          164.85000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300056,
+        "products": 2,
+        "pickups": 9,
+        "transfers": 8,
+        "firstProductSeconds": 29.1,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 63.74401720464245,
+        "deliveryTimes": [
+          29.1,
+          97.30000000000001
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 4
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 8,
+            "transfers": 7
+          },
+          "200": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          },
+          "240": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          }
+        }
+      },
+      {
+        "seed": 5300057,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 14.100000000000001,
+        "clearSeconds": 200.45000000000002,
+        "cargoAtEnd": 0,
+        "distance": 52.69546042755232,
+        "deliveryTimes": [
+          14.100000000000001,
+          74.9,
+          200.45000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 8,
+            "transfers": 8
+          },
+          "200": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300058,
+        "products": 2,
+        "pickups": 9,
+        "transfers": 8,
+        "firstProductSeconds": 42.1,
+        "clearSeconds": null,
+        "cargoAtEnd": 3,
+        "distance": 63.636618247628114,
+        "deliveryTimes": [
+          42.1,
+          119.95
+        ],
+        "milestones": {
+          "40": {
+            "products": 0,
+            "pickups": 3,
+            "transfers": 2
+          },
+          "80": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "200": {
+            "products": 2,
+            "pickups": 8,
+            "transfers": 7
+          },
+          "240": {
+            "products": 2,
+            "pickups": 9,
+            "transfers": 8
+          }
+        }
+      },
+      {
+        "seed": 5300059,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 17.1,
+        "clearSeconds": 141.4,
+        "cargoAtEnd": 0,
+        "distance": 37.60666265115139,
+        "deliveryTimes": [
+          17.1,
+          77.9,
+          141.4
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300060,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 20.1,
+        "clearSeconds": 228.35000000000002,
+        "cargoAtEnd": 0,
+        "distance": 61.13666141182185,
+        "deliveryTimes": [
+          20.1,
+          161.5,
+          228.35000000000002
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "120": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 4
+          },
+          "160": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "200": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300061,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 19.1,
+        "clearSeconds": 152.0,
+        "cargoAtEnd": 0,
+        "distance": 40.44647379517547,
+        "deliveryTimes": [
+          19.1,
+          89.4,
+          152.0
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 5,
+            "transfers": 4
+          },
+          "120": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300062,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 23.1,
+        "clearSeconds": 148.05,
+        "cargoAtEnd": 0,
+        "distance": 39.37120716720824,
+        "deliveryTimes": [
+          23.1,
+          83.55000000000001,
+          148.05
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 3,
+            "transfers": 3
+          },
+          "80": {
+            "products": 1,
+            "pickups": 6,
+            "transfers": 5
+          },
+          "120": {
+            "products": 2,
+            "pickups": 7,
+            "transfers": 6
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      },
+      {
+        "seed": 5300063,
+        "products": 3,
+        "pickups": 9,
+        "transfers": 9,
+        "firstProductSeconds": 14.100000000000001,
+        "clearSeconds": 119.7,
+        "cargoAtEnd": 0,
+        "distance": 31.802161605656195,
+        "deliveryTimes": [
+          14.100000000000001,
+          66.60000000000001,
+          119.7
+        ],
+        "milestones": {
+          "40": {
+            "products": 1,
+            "pickups": 4,
+            "transfers": 3
+          },
+          "80": {
+            "products": 2,
+            "pickups": 6,
+            "transfers": 6
+          },
+          "120": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "160": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "200": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          },
+          "240": {
+            "products": 3,
+            "pickups": 9,
+            "transfers": 9
+          }
+        }
+      }
+    ]
+  }
+}

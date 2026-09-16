@@ -1,0 +1,61 @@
+{
+  "checkpoint": ".runtime/service-training/sequence-lr0005/candidate-200.npz",
+  "gainValuesSha256": "522ec9a2b5967ff5b014211a631adbea36723e66a216c06cba867d5d57238bba",
+  "baselineGainValuesSha256": "1618f774efa0ec823f895e35eccc0dca2f5dc26946e2f236b3f82541d88d28a0",
+  "trainingMethod": "sequence supervised synaptic backpropagation with old-task replay",
+  "neurons": 166700,
+  "eligibleSynapticGains": 25582938,
+  "changedSynapticGains": 25035462,
+  "decoderTrained": false,
+  "dopamineLearning": false,
+  "fullLineVerification": {
+    "cases": 64,
+    "seedStart": 5300000,
+    "simulatedSeconds": 240,
+    "itemsPerFactory": 3,
+    "baselineFactoriesCleared": 49,
+    "candidateFactoriesCleared": 62,
+    "baselineProducts": 159,
+    "candidateProducts": 190
+  },
+  "continuousVerification": {
+    "cases": 32,
+    "seedStart": 5400000,
+    "simulatedSeconds": 240,
+    "baselineProducts": 95,
+    "candidateProducts": 115
+  },
+  "teacherAtEvaluation": false,
+  "weightsChangedDuringEvaluation": false,
+  "deployedToDashboard": true,
+  "dashboardUrl": "<private-dashboard>",
+  "dashboardVersion": 19,
+  "dashboardMode": "four colliding flies; shared frozen weights and independent neural states; 3x continuous laptop inference; no resets or training",
+  "flies": 4,
+  "flyCollisions": true,
+  "stationCollisions": false,
+  "swarmVerification": {
+    "cases": 16,
+    "seedStart": 5700000,
+    "simulatedSecondsPerWorld": 600,
+    "worldsProducingAtLeastThree": 16,
+    "products": 410,
+    "minProductsPerWorld": 19,
+    "maxProductsPerWorld": 31,
+    "worldsProducingDuringFinalMinute": 15,
+    "bumpEvents": 1055,
+    "minimumBodySeparation": 0.4400004670437001,
+    "noTrainingNeededThisTurn": true
+  },
+  "simulationSpeed": 3,
+  "continuousSupply": true,
+  "automaticReset": false,
+  "trainingRunning": false,
+  "limitations": [
+    "Two finite factories did not clear all three items within the time limit.",
+    "First deliveries were slower.",
+    "Isolated carry retention was 31/32 rather than 32/32.",
+    "Only one training seed and the existing layout were verified."
+  ],
+  "historicalMetadata": true
+}

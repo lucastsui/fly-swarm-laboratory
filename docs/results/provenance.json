@@ -1,0 +1,65 @@
+{
+  "sanitization": "Machine-local absolute paths and private deployment URL replaced; metrics preserved. Reference checkpoint path made relative; historical metadata labeled.",
+  "files": [
+    {
+      "report": "baseline-finite64.json",
+      "sourceFileSha256": "db586a05bfed5bef4726678acdeaa104ced6d9578a90e6d15e91fc25ddb883bb",
+      "sanitizedFileSha256": "afb5845d8a5eafe457cc8b4d0ea12ce3f9024fbc408e9a72e8a1bf9bb7ebe143"
+    },
+    {
+      "report": "sequence200-finite64.json",
+      "sourceFileSha256": "f30f08cd72b0f3586c838bc38e9f34288d4569db97a84d22258415d803b61d49",
+      "sanitizedFileSha256": "f414ebb9fcb17ff2cbcdee2fda9d19cb93fcc40347b68d0a84a142d2d850594a"
+    },
+    {
+      "report": "baseline-continuous32.json",
+      "sourceFileSha256": "0bd220abea5826b019cea5bb85bec12c6119e938aba6c6441011066787bdc25a",
+      "sanitizedFileSha256": "b0ee461d4eb1e177045352366d87e085970c4b27c874a5733459e6c299c4a57f"
+    },
+    {
+      "report": "sequence200-continuous32.json",
+      "sourceFileSha256": "d328aa4a1bee3fa796f13cfd650a84748413074a24769b223f6c1a7e575d9102",
+      "sanitizedFileSha256": "4560ffb59cbced635e54308a8cd40071e76b285e420ad5944344c4bb566e3e97"
+    },
+    {
+      "report": "swarm-pilot-paired8.json",
+      "sourceFileSha256": "8f88733f347b556a1918e9da1a8f8353e5bb9887dc47258287f8ecd2e93abe1b",
+      "sanitizedFileSha256": "c0ccbde105862aab4d6c2c24c1c91dec14e6a3d0158353ccb92716098d230f2c"
+    },
+    {
+      "report": "swarm-confirmation16-600s.json",
+      "sourceFileSha256": "4272baf2afe925766e7ca8f6a93619ec93493caef3abad213e43f1663c5b9c8c",
+      "sanitizedFileSha256": "8e9482268191aaec397a43e60489d3afbef777378d559c97dfae686e79e183c7"
+    },
+    {
+      "report": "reference-checkpoint.json",
+      "sourceFileSha256": "3c149c6f8a76c339a116506a3c5693ce1be722894059322673a2748bec917672",
+      "sanitizedFileSha256": "eaa37e05164c7144a809254d4a21bc65ed6b1636aa64cf64d822e38af8e89c01"
+    },
+    {
+      "report": "learning-verification.json",
+      "sourceFileSha256": "4869558e5cb9e3a4543e71738aec8daac7fc1c477fd37fe9b03101dd910ab1f2",
+      "sanitizedFileSha256": "1eba3c2e84ebc13340c4946e4903a8d032f6156ca494d923fcdfa4c38885b254"
+    },
+    {
+      "report": "fixed-parent-near.json",
+      "sourceFileSha256": "b988a5a3c21e90c28297eae262ec3a5f5d15c5dacbeffb406efc0c7acadc97f0",
+      "sanitizedFileSha256": "25a2034758f2623702ab0770f816eca6322ce5033d0e7af70b8ee78917fc4bf2"
+    },
+    {
+      "report": "fixed-v2-c20-near.json",
+      "sourceFileSha256": "8cc0098e94abffb459de92fb452ca7cfd839abe05e8a48a29c4968d8daea7c2a",
+      "sanitizedFileSha256": "3d15058fb639eb21d159d734471a5f717306d13965c873f3f074027f69d7e408"
+    },
+    {
+      "report": "fixed-v2-c40-near.json",
+      "sourceFileSha256": "d6609ee4de892c517dd827220a2731fbb2730b98c6cbdccd99d851b2f546bd1a",
+      "sanitizedFileSha256": "e356ce204a964a00873d53e03752c2d3abf22afdf76fed138c3f5dd393c3db23"
+    },
+    {
+      "report": "current-layout.json",
+      "sourceFileSha256": "17deb0cafc83285ada8eb1a3e36d3078b8f47398372a7391dfcab15b35c20ae1",
+      "sanitizedFileSha256": "b2fc61ae238a85e735f6fdbf08dd115218b9b61e296d99e85fc1e0480262f383"
+    }
+  ]
+}
