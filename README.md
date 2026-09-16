@@ -6,9 +6,9 @@ This is an experimental simulation and dashboard built through an iterative coll
 
 **Result:** learned whole-line service and a productive four-fly swarm were demonstrated on the original layout. Reliable service on arbitrary layouts was **not** achieved. The newest displayed model is an experimental checkpoint, not the best-validated model. Training and the original live demo were paused at the owner's request on September 15, 2026; cloning this repository does not resume them.
 
-![Dashboard with the 2D assembly line and traced neural anatomy](docs/media/dashboard.png)
+![Animated dashboard timelapse showing the fly swarm and traced neural activity](docs/media/dashboard-timelapse.gif)
 
-[Watch the 60-second dashboard timelapse](docs/media/dashboard-timelapse.gif). It compresses approximately 59 minutes of recorded dashboard playback. It is an illustration of behavior, **not** a controlled evaluation or a real-time speed benchmark.
+This 60-second animated GIF compresses approximately 59 minutes of recorded dashboard playback. It is an illustration of behavior, **not** a controlled evaluation or a real-time speed benchmark.
 
 ## What we built
 
