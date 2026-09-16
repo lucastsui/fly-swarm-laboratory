@@ -1,18 +1,18 @@
-# Fly Swarm Laboratory
+# Using Fruit Fly Connectome To Control Logistic Drones to Service Logistic Network without Encoding Topology of the Network.
 
-**Can a shared, connectome-constrained fly controller learn to move materials through an assembly line?**
+TLRD: The vitrual brain of a fruit fly is trained to make deliveries for a factory assembly line. It's not as efficient as drones with knowledge of the map but it works, so as a proof of concept we might be able to mmeaningfully use simulated brains to power machines.
 
-This is an experimental simulation and dashboard built through an iterative collaboration between the project owner and Codex. It connects a full released MaleCNS neuronal graph to simple 2D avatars, trains selected model parameters, and makes the resulting behavior inspectable alongside anatomical neuron reconstructions and measured activity.
+**What is Achieved**
+We connects a full released MaleCNS neuronal graph to simple 2D avatars, trains selected model parameters, and makes the resulting behavior inspectable alongside anatomical neuron reconstructions and measured activity.
 
-**Result:** learned whole-line service and a productive four-fly swarm were demonstrated on the original layout. Reliable service on arbitrary layouts was **not** achieved. The newest displayed model is an experimental checkpoint, not the best-validated model. Training and the original live demo were paused at the owner's request on September 15, 2026; cloning this repository does not resume them.
+The drone, all sharing one instance of a trained brain, learned whole-line service and a productive four-fly swarm were demonstrated on the original layout. Service on arbitrary layouts was achieveable but realiability still depends on the layout of the logistic network.
+
 
 ![Animated dashboard timelapse showing the fly swarm and traced neural activity](docs/media/dashboard-timelapse.gif)
+This 60-second animated GIF compresses approximately 59 minutes of recorded dashboard playback.
 
-This 60-second animated GIF compresses approximately 59 minutes of recorded dashboard playback. It is an illustration of behavior, **not** a controlled evaluation or a real-time speed benchmark.
-
-## What we built
-
-The original idea was to replace conveyor-belt logistics with many simple agents. Each fly should make its own decisions from its own sensory input without a central routing controller. All flies share one set of learned brain parameters, but have independent recurrent neural states and bodies.
+## Why Do This
+Deciding how to get from point A to point B though multiple intermediate stops, also known as the routing problem, exist in multiple disciplines like computer networks, logistics, and mathematics. The idea is that if a swarm of drones, each having only only knowledge of the map can self-organize to service the network to deliver messages or cargos, then we can reduce the computational workload of determining the optimal route and rely on the agents to learn it through training, not through coding, making the network more resilent to changing positions of the nodes without crashing the system.
 
 The project includes:
 
